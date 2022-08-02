@@ -1,2 +1,2 @@
 #salve rapaziada
-print("hello word")
+print("bom dia,porra. vou pegar um feijão daquele jeito. feijão preto cheio de carne, gostoso. que delícia!")

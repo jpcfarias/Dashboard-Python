@@ -7,9 +7,11 @@ app = Dash(__name__)
 
 # assume you have a "long-form" data frame
 # see https://plotly.com/python/px-arguments/ for more options
-df = pd.read_excel('jogosfree.xlsx')
+df = pd.read_excel('jogos.xlsx')
 
-fig = px.bar(df, x="name", y="freetoplay", barmode="group")
+
+
+fig = px.bar(df, x="Name", y="All-Time Peak", barmode="group")
 
 app.layout = html.Div(children=[
     html.H1(children='Hello Dash'),

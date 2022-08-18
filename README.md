@@ -1,3 +1,15 @@
 # dashboard-python
-requisitos: python3, pandas e dash já instalados
-#dados coletados em 03/08/2022 22:13
+Trabalho apc, usando os seguintes datasets do kaggle:
+*https://www.kaggle.com/datasets/rankirsh/evolution-of-top-games-on-twitch?select=Twitch_game_data.csv*
+*https://www.kaggle.com/datasets/nikdavis/steam-store-games*
+Alunos participantes:
+João Farias
+João Fujimoto
+Leticia Hladczuk
+Artur de Camargos
+Arthur Ribeiro
+Henrique Quenino
+Danilo Ligieiro
+Luis Eduardo Lima
+Ives Monteiro
+Lucas Bottino

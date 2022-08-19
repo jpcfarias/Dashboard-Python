@@ -1,0 +1,1002 @@
+Game_Id,Abbreviation,Name,Genres,Platforms,Total_Runs,Release_Date
+0,sm64,Super Mario 64,3D Platformer,"Nintendo 64, Wii Virtual Console, Wii U Virtual Console, Switch",9174.0,1996-06-23
+1,mc,Minecraft: Java Edition,Sandbox,PC,6869.0,2011-11-18
+2,smo,Super Mario Odyssey,3D Platformer,Switch,4284.0,2017-10-27
+3,celeste,Celeste,2D Platformer,"PlayStation 4, Xbox One, PC, Switch, Xbox One X, Xbox One S, Google Stadia, PlayStation 5, Xbox Series X, Xbox Series S",3815.0,2018-01-25
+4,mk8dx,Mario Kart 8 Deluxe,Racing,Switch,7660.0,2017-04-28
+5,seterra,Seterra,Misc,"PC, Android, iOS, Web",7763.0,1997-01-01
+6,portal,Portal,Puzzle,"PlayStation 3, Xbox 360, Xbox One, PC",3676.0,2007-10-09
+7,supermetroid,Super Metroid,Action,"Super Nintendo, Wii Virtual Console, Wii U Virtual Console, New Nintendo 3DS Virtual Console, Switch, SNES Classic Mini, MiSTer, Analogue Super Nt",2826.0,1994-03-19
+8,goiwbf,Getting Over It With Bennett Foddy,2D Platformer,"PC, Android, iOS",2561.0,2017-10-06
+9,sms,"Super Mario Sunshine""Platformer",3D Platformer,"GameCube, Wii, Switch",2575.0,2002-07-19
+10,robloxsr4,ROBLOX: Speed Run 4,Parkour,"PC, Android, iOS, Macintosh",5086.0,2013-01-01
+11,smw,Super Mario World,2D Platformer,"Super Nintendo, Wii Virtual Console, Nintendo 3DS Virtual Console, Wii U Virtual Console, Switch, SNES Classic Mini, Analogue Super Nt",3150.0,1990-11-21
+12,smb1,Super Mario Bros.,2D Platformer,"Nintendo Entertainment System, Super Nintendo, Wii Virtual Console, Game Boy Advance, Wii, Nintendo 3DS Virtual Console, Famicom Disk System, Wii U Virtual Console, NES Classic Mini, Switch, SNES Classic Mini",2277.0,1985-09-13
+13,oot,The Legend of Zelda: Ocarina of Time,Action-Adventure,"Nintendo 64, GameCube, Wii Virtual Console, Wii U Virtual Console, iQue Player, Switch",3065.0,1998-11-21
+14,alttp,The Legend of Zelda: A Link to the Past,Action-Adventure,"Super Nintendo, Wii Virtual Console, Nintendo 3DS Virtual Console, Wii U Virtual Console, Switch, SNES Classic Mini, MiSTer, Analogue Super Nt",2891.0,1991-11-21
+15,mcbe,Minecraft: Bedrock Edition,Sandbox,"PlayStation 4, Xbox One, PC, Android, iOS, Windows Phone, Macintosh, Linux, Oculus VR, Switch, Xbox One X, PlayStation 4 Pro, Xbox One S, PlayStation 5, Xbox Series X, Xbox Series S, Amazon Fire TV",2147.0,2011-08-16
+16,bfbb,SpongeBob SquarePants: Battle for Bikini Bottom,3D Platformer,"GameCube, PlayStation 2, Xbox 360, Xbox, Wii, backwards-compatible PlayStation 3",1084.0,2003-10-31
+17,re2remake,Resident Evil 2 (2019),Horror,"PlayStation 4, Xbox One, PC, Xbox One X, PlayStation 4 Pro, Xbox One S, PlayStation 5, Xbox Series X, Xbox Series S",2880.0,2019-01-25
+18,pou,Pou,Misc,"Android, iOS",3930.0,2013-02-14
+19,piggy,ROBLOX: Piggy,Puzzle,"Xbox, PC, Android, iOS, Macintosh, HTC Vive, Oculus VR",4081.0,2020-01-23
+20,outlast,Outlast,Horror,"PlayStation 4, Xbox One, PC, Switch, Xbox One X, PlayStation 4 Pro, Xbox One S, PlayStation 5, Xbox Series X, Xbox Series S, Nintendo Switch Lite, SwitchOLED",2043.0,2013-09-04
+21,hades,Hades,Roguelike,"PlayStation 4, Xbox One, PC, Macintosh, Switch, PlayStation 5, Xbox Series X, Xbox Series S",3330.0,2018-12-06
+22,mcc,Minecraft (Classic),Sandbox,"PC, Web",3164.0,2009-05-17
+23,refunct,Refunct,3D Platformer,"PlayStation 4, Xbox One, PC, Switch",1737.0,2015-10-16
+24,undertale,Undertale,RPG,"PlayStation Vita, PlayStation 4, Xbox One, PC, Macintosh, Linux, Switch, PlayStation 5, Xbox Series X",1808.0,2015-09-15
+25,hollowknight,Hollow Knight,Action,"PlayStation 4, Xbox One, PC, Switch, PlayStation 5, Xbox Series X, Xbox Series S",1705.0,2017-02-24
+26,whitetiles4,White Tiles 4: Piano Master 2,Rhythm,"Android, iOS",3755.0,2014-10-03
+27,botw,The Legend of Zelda: Breath of the Wild,Action-Adventure,"Wii U, Switch",1668.0,2017-03-03
+28,wsr,Wii Sports Resort,Sports,"Wii U, Wii",2013.0,2009-06-25
+29,ting,There Is No Game,Misc,"PC, Android, iOS, Web",2383.0,2015-06-25
+30,crossy,Crossy Road,2D Platformer,"Arcade, PC, Android, iOS, Web",2615.0,2014-11-20
+31,portal_2,Portal 2,Puzzle,"PlayStation 3, Xbox 360, PC",1333.0,2011-04-19
+32,bhop_pro,Bhop pro,Parkour,"Android, iOS",2241.0,2017-03-21
+33,gtav,Grand Theft Auto V,Sandbox,"PlayStation 3, Xbox 360, PlayStation 4, Xbox One, PC, PlayStation 5, Xbox Series X, Xbox Series S",1462.0,2013-09-17
+34,smb3,Super Mario Bros. 3,2D Platformer,"Nintendo Entertainment System, Super Nintendo, Wii Virtual Console, Wii, Nintendo 3DS Virtual Console, Wii U Virtual Console, NES Classic Mini, Switch, SNES Classic Mini",1302.0,1988-10-23
+35,cuphead,Cuphead,2D Platformer,"PlayStation 4, Xbox One, PC, Macintosh, Switch, Xbox Series X, Xbox Series S",1714.0,2017-09-29
+36,lm,Luigi's Mansion,Action-Adventure,"GameCube, Wii",1129.0,2001-09-14
+37,mkw,Mario Kart Wii,Racing,"Wii U, Wii, Wii Mini",2401.0,2008-04-10
+38,smg1,Super Mario Galaxy,3D Platformer,"Wii, Wii U Virtual Console, Switch",1304.0,2007-11-01
+39,nsmbw,New Super Mario Bros. Wii,2D Platformer,"Wii U, Wii, Wii U Virtual Console",1312.0,2009-11-12
+40,bocwz,Call of Duty: Black Ops Cold War Zombies,First-person shooter,"PlayStation 4, Xbox One, PC, Xbox One X, PlayStation 4 Pro, Xbox One S, PlayStation 5, Xbox Series X, Xbox Series S",2387.0,2020-11-12
+41,shar,The Simpsons: Hit & Run,Sandbox,"GameCube, PlayStation 2, Xbox, PC",842.0,2003-09-16
+42,sa2b,Sonic Adventure 2: Battle,3D Platformer,"GameCube, Dreamcast, PlayStation 3, Xbox 360, PC",1216.0,2001-06-23
+43,spelunky2,Spelunky 2,Roguelike,"PlayStation 4, Xbox One, PC, Switch, PlayStation 5, Xbox Series X, Xbox Series S",1338.0,2020-09-15
+44,karlson_itch_io,Karlson (Itch.io),Parkour,"PC, Macintosh, Linux",1131.0,2020-01-17
+45,mdread,Metroid Dread,Action-Adventure,Switch,1605.0,2021-10-08
+46,muck,Muck,Roguelike,"PC, Macintosh, Linux",1494.0,2021-06-05
+47,spyro1,Spyro the Dragon,3D Platformer,"PlayStation 2, PlayStation, PlayStation 3, PlayStation Portable, PlayStation Vita, Playstation TV",655.0,1998-09-10
+48,bo3zombies,Call of Duty: Black Ops III Zombies,First-person shooter,"PlayStation 3, Xbox 360, PlayStation 4, Xbox One, PC",2469.0,2015-11-06
+49,re7,Resident Evil 7: Biohazard,Horror,"PlayStation 4, Xbox One, PC, Switch, PlayStation 5, Xbox Series X, Xbox Series S",1058.0,2017-01-24
+50,titanfall_2,Titanfall 2,First-person shooter,"PlayStation 4, Xbox One, PC, Xbox One X, PlayStation 4 Pro, PlayStation 5, Xbox Series X, Xbox Series S",1245.0,2016-10-28
+51,sadx,Sonic Adventure (DX),3D Platformer,"GameCube, Dreamcast, PlayStation 3, Xbox 360, Xbox One, PC, Xbox Series X, Xbox Series S",1237.0,1998-12-23
+52,bk,Banjo-Kazooie,3D Platformer,"Nintendo 64, Xbox 360, Xbox One, Switch Virtual Console, Xbox Series X",765.0,1998-06-29
+53,dead_by_daylight,Dead by Daylight,Horror,"PlayStation 4, Xbox One, PC, Android, iOS, Switch, Google Stadia, PlayStation 5, Xbox Series X",1708.0,2016-06-14
+54,rocketleague,Rocket League,Sports,"PlayStation 4, Xbox One, PC, Switch, PlayStation 5, Xbox Series X, Xbox Series S",841.0,2015-07-07
+55,ahit,A Hat in Time,3D Platformer,"PlayStation 4, Xbox One, PC, Switch, PlayStation 5, Xbox Series X",849.0,2017-10-05
+56,pm64,Paper Mario,RPG,"Nintendo 64, Wii Virtual Console, Wii U Virtual Console, Switch",960.0,2000-08-11
+57,jb,ROBLOX: Jailbreak,Misc,"Xbox One, PC, Android, iOS, Macintosh",1518.0,2017-01-09
+58,crashnst,Crash Bandicoot: N. Sane Trilogy,3D Platformer,"PlayStation 4, Xbox One, PC, Switch, Xbox One X, PlayStation 4 Pro, Xbox Series X, Xbox Series S, PS5 for backward compatible games",898.0,2017-06-30
+59,redball1,Red Ball,2D Platformer,Web,891.0,2009-06-23
+60,gtavc,Grand Theft Auto: Vice City,Sandbox,"PlayStation 2, Xbox, PlayStation 4, PC, Macintosh",705.0,2002-10-27
+61,re4console,Resident Evil 4 (Console),Horror,"GameCube, Wii U, PlayStation 2, PlayStation 3, Xbox 360, PlayStation 4, Xbox One, PC, Wii, Switch, Xbox One X, PlayStation 4 Pro, Xbox One S, PlayStation 5, Xbox Series X, Xbox Series S",773.0,2005-01-11
+62,csgo,Counter-Strike: Global Offensive,First-person shooter,"PlayStation 3, Xbox 360, PC",1494.0,2012-08-21
+63,mkdd,Mario Kart: Double Dash!!,Racing,GameCube,1204.0,2003-11-07
+64,the_messenger,The Messenger,2D Platformer,"PlayStation 4, Xbox One, PC, Switch",775.0,2018-08-30
+65,re2,Resident Evil 2,Horror,"Nintendo 64, GameCube, Dreamcast, PlayStation 2, PlayStation, PlayStation 3, PlayStation Portable, PlayStation Vita, PC, Wii, Playstation TV",1229.0,1998-01-21
+66,cclicker,Cookie Clicker,Misc,"PC, Web",1174.0,2013-08-10
+67,katana_zero,Katana ZERO,Action,"Xbox One, PC, Switch, Xbox Series X, Xbox Series S",1076.0,2019-04-18
+68,the_legend_of_zelda,The Legend of Zelda,Action-Adventure,"Nintendo Entertainment System, GameCube, Wii Virtual Console, Game Boy Advance, Nintendo 3DS Virtual Console, Famicom Disk System, Wii U Virtual Console, New Nintendo 3DS Virtual Console, NES Classic Mini, Game & Watch, Switch, Famicom",631.0,1986-02-21
+69,smb,Super Meat Boy,2D Platformer,"Wii U, Xbox 360, PlayStation Vita, PlayStation 4, Xbox One, PC, Macintosh, Linux, Switch, Nvidia Shield, PlayStation 5, Xbox Series X, Xbox Series S",980.0,2010-10-20
+70,overwatch,Overwatch,First-person shooter,"PlayStation 4, Xbox One, PC, Switch, PlayStation 5, Xbox Series X, Xbox Series S",1679.0,2016-05-24
+71,spelunky,Spelunky,Roguelike,"PlayStation 3, Xbox 360, PlayStation Vita, PlayStation 4, PC, Switch",1356.0,2013-08-08
+72,among_us,Among Us,Misc,"PlayStation 4, Xbox One, PC, Android, iOS, Switch, PlayStation 5, Xbox Series X, Xbox Series S",1595.0,2018-06-15
+73,lol,League of Legends,Strategy,"PC, Macintosh",1662.0,2009-01-01
+74,hl1,Half-Life,First-person shooter,"PlayStation 2, PC, Macintosh, Linux",501.0,1998-11-08
+75,r6_siege,Tom Clancy's Rainbow Six Siege,First-person shooter,"PlayStation 4, Xbox One, PC",1627.0,2015-12-01
+76,robloxtoh,Tower of Hell,Misc,"Xbox One, PC, Android, iOS, Macintosh",1064.0,2018-06-18
+77,re3r,Resident Evil 3 (2020),Horror,"PlayStation 4, Xbox One, PC, Xbox One X, PlayStation 4 Pro, Xbox One S, PlayStation 5, Xbox Series X, Xbox Series S",1117.0,2020-03-18
+78,mm,The Legend of Zelda: Majora's Mask,Action-Adventure,"Nintendo 64, GameCube, Wii Virtual Console, Wii U Virtual Console, Switch",688.0,2000-04-27
+79,jumpking,Jump King,2D Platformer,"PlayStation 4, Xbox One, PC, Switch",980.0,2019-05-03
+80,roblox_bedwars,ROBLOX: BedWars,Misc,"PC, Android, iOS, Macintosh",668.0,2021-05-28
+81,smg2,Super Mario Galaxy 2,3D Platformer,"Wii, Wii U Virtual Console",764.0,2010-05-23
+82,pkmnredblue,Pokémon Red/Blue,RPG,"Nintendo 64, Game Boy Color, Game Boy Advance, Nintendo 3DS Virtual Console, Super Game Boy, Game Boy Player, Super Game Boy 2, Game Boy, New Nintendo 3DS Virtual Console, Game Boy Interface",954.0,1996-02-27
+83,supermonkeyball2,Super Monkey Ball 2,Puzzle,"GameCube, Wii",901.0,2002-08-25
+84,mk8,Mario Kart 8,Racing,Wii U,1528.0,2014-05-29
+85,spyro2,Spyro 2: Ripto's Rage!,3D Platformer,"PlayStation 2, PlayStation, PlayStation 3, PlayStation Portable, PlayStation Vita, Playstation TV",581.0,1999-11-02
+86,d2lod,Diablo II: Lord of Destruction,Action,PC,914.0,2001-06-27
+87,celestep8,CELESTE Classic,2D Platformer,"PlayStation 4, Xbox One, PC, Web, Switch, PICO-8",745.0,2015-07-21
+88,craftrise,CraftRise,Sandbox,PC,301.0,2015-09-17
+89,jak1,Jak and Daxter: The Precursor Legacy,3D Platformer,"PlayStation 2, PlayStation 3, PlayStation Vita, PlayStation 4, PlayStation 5, backwards-compatible PlayStation 3",468.0,2001-12-03
+90,re3,Resident Evil 3: Nemesis,Horror,"GameCube, Dreamcast, PlayStation 2, PlayStation, PlayStation 3, PlayStation Portable, PlayStation Vita, PC, Wii, Playstation TV",766.0,1999-09-22
+91,pt,Piano Tiles,Rhythm,"Android, iOS, Windows Phone",1463.0,2014-03-28
+92,streets_of_rage_4,Streets of Rage 4,Brawler,"PlayStation 4, Xbox One, PC, Switch",1030.0,2020-04-30
+93,khfm,Kingdom Hearts Final Mix,RPG,"PlayStation 2, PlayStation 3, PlayStation 4, Xbox One, PC, PlayStation 5, Xbox Series X, Xbox Series S",734.0,2002-12-26
+94,fnafsb,Five Nights at Freddy's: Security Breach,Horror,"PlayStation 4, PC, PlayStation 5",1035.0,2021-12-16
+95,darksouls3,Dark Souls III,Action,"PlayStation 4, Xbox One, PC, PlayStation 5, Xbox Series X, Xbox Series S",639.0,2016-03-24
+96,ori_de,Ori and the Blind Forest Definitive Edition,Action-Adventure,"Xbox One, PC, Switch",450.0,2016-03-11
+97,mk7,Mario Kart 7,Racing,"Nintendo 3DS, New Nintendo 3DS",1259.0,2011-12-01
+98,factorio,Factorio,Sandbox,PC,706.0,2020-08-14
+99,remake_hd,Resident Evil (Remake),Horror,"GameCube, Wii",39.0,2002-03-22
+100,wiisports,Wii Sports,Sports,"Wii U, Wii",859.0,2006-11-19
+101,snake_game,Google Snake Game,Misc,Web,1124.0,2017-09-27
+102,sekiro,Sekiro: Shadows Die Twice,Action,"PlayStation 4, Xbox One, PC, PlayStation 5, Xbox Series X, Xbox Series S",645.0,2019-03-22
+103,me,Mirror's Edge,Parkour,"PlayStation 3, Xbox 360, Xbox One, PC, Xbox Series X, Xbox Series S",545.0,2008-11-11
+104,lswtcs,LEGO Star Wars: The Complete Saga (PC/Console),Action-Adventure,"Wii U, PlayStation 3, Xbox 360, PlayStation 4, Xbox One, PC, Wii, Android, iOS, Macintosh, Linux, Xbox One X, PlayStation 4 Pro, Xbox One S, Xbox Series X",529.0,2007-11-06
+105,zelda_ii_the_adventure_of_link,Zelda II: The Adventure of Link,Action-Adventure,"Nintendo Entertainment System, GameCube, Wii Virtual Console, Game Boy Advance, Nintendo 3DS, Nintendo 3DS Virtual Console, Famicom Disk System, Wii U Virtual Console, NES Classic Mini, Switch, SNES Classic Mini, MiSTer, Analogue Nt, Analogue Nt Mini, Nt Mini Noir, retroUSB AVS",411.0,1987-01-14
+106,dl1,Duck Life 1,Racing,Web,876.0,2008-01-01
+107,shovelknight,Shovel Knight,2D Platformer,"Wii U, Nintendo 3DS, PlayStation 3, PlayStation Vita, PlayStation 4, Xbox One, PC, Linux, Switch",629.0,2014-06-26
+108,hff,Human: Fall Flat,Puzzle,"PlayStation 4, Xbox One, PC, Android, iOS, Macintosh, Linux, Switch, Google Stadia",715.0,2016-07-22
+109,mkds,Mario Kart DS,Racing,"Nintendo DS, Nintendo 3DS, Wii U Virtual Console",895.0,2005-11-14
+110,mk64,Mario Kart 64,Racing,"Nintendo 64, Wii Virtual Console, Wii U Virtual Console, Switch",756.0,1996-12-14
+111,island_games,Google Doodle Champion Island Games Begin!,Sports,"PC, Web, Macintosh, Linux",716.0,2021-07-23
+112,sm3dw_bf,Super Mario 3D World + Bowser's Fury,3D Platformer,Switch,694.0,2021-02-12
+113,ctr,Crash Team Racing,Racing,"PlayStation 2, PlayStation, PlayStation 3, PlayStation Portable, PlayStation Vita, Playstation TV, PSN Download",611.0,1999-09-30
+114,dkc,Donkey Kong Country,2D Platformer,"Super Nintendo, Wii Virtual Console, Wii U Virtual Console, New Nintendo 3DS Virtual Console, SNES Classic Mini, Switch Virtual Console",725.0,1994-11-21
+115,re8,Resident Evil Village,Horror,"PlayStation 4, Xbox One, PC, Xbox One X, PlayStation 4 Pro, Xbox One S, PlayStation 5, Xbox Series X, Xbox Series S",655.0,2021-05-07
+116,piggy2,ROBLOX: Piggy Book 2,Horror,"Xbox, PC, Android, iOS, Macintosh, HTC Vive, Oculus VR",1285.0,2020-09-12
+117,kh2fm,Kingdom Hearts II Final Mix,RPG,"PlayStation 2, PlayStation 3, PlayStation 4, Xbox One, PC, PlayStation 4 Pro, PlayStation 5, Xbox Series X, Xbox Series S",715.0,2007-03-29
+118,dk64,Donkey Kong 64,3D Platformer,"Nintendo 64, Wii U Virtual Console",381.0,1999-11-22
+119,hotline_miami,Hotline Miami,Action,"PlayStation 3, PlayStation Vita, PlayStation 4, Xbox One, PC, Android, Switch",603.0,2012-10-23
+120,poppy_playtime,Poppy Playtime,Horror,"PC, Android, iOS",837.0,2021-10-13
+121,rec_room,Rec Room,Misc,"PlayStation, Xbox, PC, Android, iOS, HTC Vive, Oculus VR, Valve Index, Windows Mixed Reality, Oculus Quest",857.0,2016-06-01
+122,enter_the_gungeon,Enter the Gungeon,Roguelike,"PlayStation 4, Xbox One, PC, Switch",1001.0,2016-04-05
+123,bloodborne,Bloodborne,Action,"PlayStation 4, PlayStation 5",425.0,2015-03-24
+124,sm3das,Super Mario 3D All-Stars,3D Platformer,Switch,81.0,2020-09-17
+125,brawl_stars,Brawl Stars,Brawler,"Android, iOS",1081.0,2017-06-15
+126,residentevil,Resident Evil,Horror,"Sega Saturn, PlayStation 2, PlayStation, PlayStation 3, PlayStation Portable, PlayStation Vita, PC, Playstation TV, PSN Download",776.0,1996-03-22
+127,mzm,Metroid: Zero Mission,Action,"Game Boy Advance, Wii U Virtual Console",544.0,2004-02-09
+128,octopath,Octopath Traveler,RPG,"Xbox One, PC, Switch, Xbox One X, Xbox One S, Google Stadia, Xbox Series X, Xbox Series S",723.0,2018-07-13
+129,etdo,ROBLOX: Escape The Dentist Obby,Misc,"Xbox One, PC, Android, iOS, Macintosh, Linux, Xbox One X",847.0,2017-08-14
+130,superliminal,Superliminal,Puzzle,"PlayStation 4, Xbox One, PC, Switch",578.0,2019-11-12
+131,vvvvvv,VVVVVV,2D Platformer,"Nintendo 3DS, PlayStation Vita, PlayStation 4, PC, Android, iOS, Switch",659.0,2010-01-11
+132,robot64,Robot 64,3D Platformer,"Xbox One, PC, Android, iOS, Macintosh, Nvidia Shield",566.0,2018-04-18
+133,nsmbds,New Super Mario Bros.,2D Platformer,"Nintendo DS, Nintendo 3DS, Wii U Virtual Console, New Nintendo 3DS",464.0,2006-05-15
+134,slitherio,Slither.io,Misc,"PC, Android, iOS, Web, Macintosh, Linux",775.0,2016-03-25
+135,helloneighbor,Hello Neighbor,Horror,"PlayStation 4, Xbox One, PC, Android, iOS, Macintosh, Linux, Switch, Google Stadia",584.0,2016-09-29
+136,spyrortpc,Spyro Reignited Trilogy (PC),3D Platformer,PC,416.0,2019-09-03
+137,darksouls,Dark Souls,Action,"PlayStation 3, Xbox 360, Xbox One, PC",523.0,2011-09-22
+138,slime_rancher,Slime Rancher,Sandbox,"PlayStation 4, Xbox One, PC, Macintosh, Linux, Switch, Xbox One X, PlayStation 4 Pro, PlayStation 5, Xbox Series X, Xbox Series S",717.0,2017-08-01
+139,tp,The Legend of Zelda: Twilight Princess,Action-Adventure,"GameCube, Wii, Nvidia Shield",543.0,2006-11-19
+140,gs,Google Solitaire,Misc,"Android, Web",679.0,2016-08-25
+141,chipndale,Chip 'N Dale: Rescue Rangers,2D Platformer,Nintendo Entertainment System,498.0,1990-01-01
+142,gtasa,Grand Theft Auto: San Andreas,Sandbox,"PlayStation 2, PlayStation 3, Xbox 360, Xbox, PlayStation 4, PC, PlayStation 5",423.0,2004-10-26
+143,granny,Granny,Horror,"Android, iOS",775.0,2017-11-24
+144,gmd,Geometry Dash,2D Platformer,"PC, Android, iOS, Macintosh, Linux",813.0,2013-08-13
+145,minesweeper,Minesweeper,Misc,"PC, MS-DOS, Android, iOS, Web, Linux",744.0,1990-01-01
+146,earthbound,EarthBound,RPG,"Super Nintendo, Nintendo 3DS Virtual Console, Wii U Virtual Console, SNES Classic Mini, Switch Virtual Console",457.0,1994-08-27
+147,re4steam,Resident Evil 4 (Steam),Horror,PC,605.0,2014-02-27
+148,terraria,Terraria,Sandbox,"PC, Playstation 3, Xbox 360, PlayStation Vita, iOS, Android, Windows Phone, Playstation 4, XboxOne, Nintendo 3DS, Wii U, Nintendo Switch",819.0,2011-05-11
+149,spyro3,Spyro: Year of the Dragon,3D Platformer,"PlayStation 2, PlayStation, PlayStation 3, PlayStation Portable, PlayStation Vita, Playstation TV",332.0,2000-10-25
+150,smb2,Super Mario Bros. 2,2D Platformer,"Nintendo Entertainment System, Super Nintendo, Wii Virtual Console, Nintendo 3DS Virtual Console, Wii U Virtual Console, NES Classic Mini, Switch, SNES Classic Mini",627.0,1988-01-01
+151,sly1,Sly Cooper and the Thievius Raccoonus,3D Platformer,"PlayStation 2, PlayStation 3, PlayStation Vita, Playstation Now, backwards-compatible PlayStation 3",334.0,2002-09-23
+152,smbtll,Super Mario Bros.: The Lost Levels,2D Platformer,"Super Nintendo, Wii Virtual Console, Game Boy Advance, Wii, Nintendo 3DS Virtual Console, Famicom Disk System, Wii U Virtual Console, Switch, SNES Classic Mini",531.0,1986-06-03
+153,ngnes,Ninja Gaiden (NES),2D Platformer,"Nintendo Entertainment System, Wii Virtual Console, NES Classic Mini, Switch",353.0,1988-12-09
+154,gunfire_reborn,Gunfire Reborn,First-person shooter,PC,833.0,2020-05-22
+155,ladx,The Legend of Zelda: Link's Awakening DX,Action-Adventure,"Game Boy Color, Game Boy Advance, Game Boy Player, Super Game Boy 2, Game Boy, Game Boy Interface, MiSTer",459.0,1998-12-12
+156,crash2,Crash Bandicoot 2: Cortex Strikes Back,3D Platformer,"PlayStation 2, PlayStation, PlayStation 3, PlayStation Portable, PlayStation Vita, Playstation TV",433.0,1998-12-12
+157,dhs,ROBLOX: Down Hill Smash,Misc,"PC, Android, iOS, Macintosh",592.0,1997-10-31
+158,arkhamcity,Batman: Arkham City,Action-Adventure,"Wii U, PlayStation 3, Xbox 360, PlayStation 4, Xbox One, PC, Playstation Now, PlayStation 5, Xbox Series X, Xbox Series S",484.0,2008-02-17
+159,dkc2,Donkey Kong Country 2: Diddy's Kong Quest,2D Platformer,"Super Nintendo, Wii Virtual Console, Wii U Virtual Console, New Nintendo 3DS Virtual Console, SNES Classic Mini, Switch Virtual Console",549.0,2011-10-18
+160,dkr,Diddy Kong Racing,Racing,Nintendo 64,352.0,1995-11-20
+161,rerun,RE:RUN,Parkour,"PC, Macintosh, Linux",379.0,1997-11-14
+162,mmx,Mega Man X,2D Platformer,"Super Nintendo, Wii Virtual Console, PC, Wii U Virtual Console, SNES Classic Mini",670.0,2020-08-08
+163,nsmb2,New Super Mario Bros. 2,2D Platformer,"Nintendo 3DS, New Nintendo 3DS",391.0,1993-01-01
+164,among_clicker,Among Us Clicker,Misc,Web,943.0,2012-07-28
+165,choppy_orc,Choppy Orc,Puzzle,Web,535.0,2021-06-03
+166,kdl,Kirby's Dream Land,2D Platformer,"Wii U, Wii, Nintendo 3DS Virtual Console, Super Game Boy, Game Boy Player, Super Game Boy 2, Game Boy, Game Boy Interface",481.0,2018-08-31
+167,bozombies,Call of Duty: Black Ops Zombies,First-person shooter,"PlayStation 3, Xbox 360, Xbox One, PC, Wii",1211.0,1992-04-27
+168,solitaire,Solitaire,Misc,"PC, Android, iOS",492.0,2010-11-09
+169,tetrisnes,Tetris (NES),Puzzle,Nintendo Entertainment System,530.0,1990-05-22
+170,kssu,Kirby Super Star Ultra,2D Platformer,"Nintendo DS, Nintendo 3DS, New Nintendo 3DS",478.0,1989-01-01
+171,roblox_the_mimic,ROBLOX: The Mimic,Horror,"Xbox, PC, Android, iOS, Macintosh",149.0,2008-09-22
+172,goose,Untitled Goose Game,Sandbox,"PlayStation 4, Xbox One, PC, Macintosh, Switch",449.0,2021-01-15
+173,soul_knight,Soul Knight,Roguelike,"Android, iOS, Switch",733.0,2019-09-20
+174,dishonored,Dishonored,Action,"PlayStation 3, Xbox 360, PlayStation 4, Xbox One, PC, PlayStation 5, Xbox Series X",504.0,2017-02-17
+175,pvz,Plants vs. Zombies,Strategy,"Nintendo DS, PlayStation 3, Xbox 360, PlayStation Vita, PC",473.0,2012-10-09
+176,rac1,Ratchet & Clank,Action,"PlayStation 2, PlayStation 3, PlayStation Vita, Playstation TV, backwards-compatible PlayStation 3",268.0,2009-05-05
+177,rac2,Ratchet & Clank: Going Commando,Action,"PlayStation 2, PlayStation 3, PlayStation Vita, backwards-compatible PlayStation 3",247.0,2002-11-04
+178,gtaiii,Grand Theft Auto III,Sandbox,"PlayStation 2, Xbox, PlayStation 4, PC, Macintosh, PlayStation 5",386.0,2003-11-11
+179,spyrortconsoletimetrials,Spyro Reignited Trilogy (Console & Time Trials),3D Platformer,"PlayStation 4, Xbox One, PC, Switch, Xbox One X, PlayStation 4 Pro, Xbox One S, PlayStation 5, Xbox Series X, Xbox Series S",425.0,2001-10-22
+180,stardew_valley,Stardew Valley,Sandbox,"PlayStation 4, Xbox One, PC, Android, iOS, Switch",796.0,2018-11-13
+181,sm64ds,Super Mario 64 DS,3D Platformer,"Nintendo DS, Nintendo 3DS, Wii U Virtual Console, New Nintendo 3DS",352.0,2016-02-26
+182,fusion,Metroid Fusion,Action-Adventure,"Game Boy Advance, Nintendo 3DS, Wii U Virtual Console",500.0,2004-11-21
+183,afterbirthplus,The Binding of Isaac: Afterbirth+,Roguelike,"PC, XboxOne, PlayStation 4",583.0,2002-11-17
+184,crash3,Crash Bandicoot 3: Warped,3D Platformer,"PlayStation 2, PlayStation, PlayStation 3, PlayStation Portable, PlayStation Vita, Playstation TV",380.0,2017-01-03
+185,lunch_lady,Lunch Lady,Horror,PC,769.0,1998-11-04
+186,na,NieR: Automata,Action,"PlayStation 4, Xbox One, PC, PlayStation 5, Xbox Series X",383.0,2021-04-15
+187,darksoulsremastered,Dark Souls Remastered,Action,"PlayStation 4, Xbox One, PC, Switch, PlayStation 5, Xbox Series X",485.0,2017-02-23
+188,contra,Contra,Action,"Nintendo Entertainment System, PlayStation 4, Xbox One, PC, NES Classic Mini, Switch",373.0,2018-05-25
+189,subnautica,Subnautica,Sandbox,"PlayStation 4, Xbox One, PC, Macintosh, Switch, PlayStation 5, Xbox Series X",378.0,1988-02-01
+190,redball4v1,Red Ball 4 Vol.1,2D Platformer,Web,372.0,2018-01-23
+191,splatoon2,Splatoon 2,Action,Switch,459.0,2012-11-01
+192,bo2zombies,Call of Duty: Black Ops II Zombies,First-person shooter,"Wii U, PlayStation 3, Xbox 360, PC",993.0,2017-07-21
+193,mcpe_lite,Minecraft: Pocket Edition Lite,Sandbox,"Android, iOS",551.0,2012-11-09
+194,rtt,ROBLOX: Time Trial,Parkour,"Xbox, PC, Android, iOS, Macintosh",632.0,2012-09-13
+195,yi,Super Mario World 2: Yoshi's Island,2D Platformer,"Super Nintendo, Switch, SNES Classic Mini",462.0,2020-12-17
+196,bhop_go,Bhop GO,Parkour,"Android, iOS",723.0,1995-08-05
+197,bl2,Borderlands 2,First-person shooter,"PlayStation 3, Xbox 360, PlayStation Vita, PlayStation 4, Xbox One, PC, Switch, PlayStation 5, Xbox Series X",458.0,2018-09-08
+198,twwhd,The Legend of Zelda: The Wind Waker HD,Action-Adventure,Wii U,393.0,2012-12-18
+199,mgs1,Metal Gear Solid,Action,"PlayStation 2, PlayStation, PlayStation 3, PlayStation Portable, PlayStation Vita, PC, Playstation TV, Playstation Classic",484.0,2013-09-20
+200,sotn,Castlevania: Symphony of the Night,Action-Adventure,"Sega Saturn, PlayStation 2, PlayStation, PlayStation 3, PlayStation Portable, Xbox 360, PlayStation Vita, PlayStation 4, Xbox One",329.0,1998-09-03
+201,cv1,Castlevania (NES),Action,"Nintendo Entertainment System, Wii Virtual Console, PlayStation 4, Xbox One, PC, Famicom Disk System, Wii U Virtual Console, NES Classic Mini, Switch, PlayStation 5, MiSTer",404.0,1997-01-01
+202,hypixel_duels,Hypixel Duels,Misc,"PC, Macintosh, Linux",778.0,1986-09-26
+203,rblx_sr4c,ROBLOX: Speed Run 4 Classic,Parkour,"Xbox One, PC, Android, iOS, Macintosh, Xbox Series X",555.0,2017-01-19
+204,doom_unity,Doom (Unity Ports),First-person shooter,"PlayStation 4, Xbox One, PC, Android, iOS, Switch, PlayStation 5, Xbox Series X, Xbox Series S",501.0,2014-10-20
+205,2048,2048,Puzzle,"PC, Android, iOS, Windows Phone, Web",368.0,2019-07-26
+206,ssbb,Super Smash Bros. Brawl,Brawler,"Wii U, Wii",574.0,2014-03-09
+207,ffx,Final Fantasy X,RPG,"PlayStation 2, PlayStation 3, PlayStation Vita, PlayStation 4, Xbox One, PC, Switch, PlayStation 4 Pro, PlayStation 5, Xbox Series X, Xbox Series S",410.0,2008-01-31
+208,thewitness,The Witness,Puzzle,"PlayStation 4, Xbox One, PC, iOS, Macintosh",374.0,2001-07-19
+209,pvzgw2,Plants vs. Zombies: Garden Warfare 2,Action,"PlayStation 4, Xbox One, PC, Xbox One X, PlayStation 4 Pro, Xbox One S, PlayStation 5, Xbox Series X, Xbox Series S",611.0,2016-01-26
+210,wii_party,Wii Party,Misc,"Wii U, Wii",736.0,2016-02-23
+211,bt,Banjo-Tooie,3D Platformer,"Nintendo 64, Xbox 360, Xbox One, Xbox Series X",337.0,2010-07-08
+212,lhp1_4,LEGO Harry Potter: Years 1-4,Action-Adventure,"Wii U, PlayStation 3, Xbox 360, PC, Wii, PS5 for backward compatible games",301.0,2000-11-19
+213,valorant,Valorant,First-person shooter,PC,738.0,2010-06-25
+214,knidl,Kirby: Nightmare in Dream Land,2D Platformer,"Game Boy Advance, Nintendo DS, Wii U Virtual Console, Game Boy Player",322.0,2020-06-02
+215,supermonkeyball,Super Monkey Ball,Puzzle,"GameCube, Wii",541.0,2002-10-25
+216,ff7,Final Fantasy VII,RPG,"PlayStation 2, PlayStation, PlayStation 3, Xbox 360, PlayStation 4, Xbox One, PC, Playstation TV, Switch, PlayStation 5",393.0,2001-09-14
+217,tetris_web,Tetris (Web),Puzzle,"PC, Android, iOS, Web",696.0,1997-01-01
+218,hp2pc,Harry Potter and the Chamber of Secrets (PC),Action-Adventure,PC,243.0,2016-11-20
+219,ovo,OvO,2D Platformer,"Android, iOS, Web",456.0,2002-01-03
+220,thsc,The Henry Stickmin Collection,Puzzle,PC,446.0,2018-09-01
+221,ssbm,Super Smash Bros. Melee,Brawler,"GameCube, Wii",601.0,2020-08-07
+222,helltaker,Helltaker,Puzzle,PC,568.0,2001-11-21
+223,mp,Metroid Prime,Action-Adventure,GameCube,268.0,2020-05-11
+224,sonic_mania,Sonic Mania,2D Platformer,"PlayStation 4, Xbox One, PC, Switch, PlayStation 5, Xbox Series X, Xbox Series S",390.0,2002-11-17
+225,rehydrated,SpongeBob SquarePants: Battle for Bikini Bottom – Rehydrated,3D Platformer,"PlayStation 4, Xbox One, PC, Android, iOS, Switch, Xbox One X, PlayStation 4 Pro, Xbox One S, Google Stadia, PlayStation 5, Xbox Series X, Xbox Series S",415.0,2017-08-15
+226,smm2,Super Mario Maker 2,2D Platformer,Switch,567.0,2020-06-23
+227,khbbsfmhd,Kingdom Hearts: Birth by Sleep Final Mix HD,RPG,"PlayStation 3, PlayStation 4, Xbox One, PC, PlayStation 5, Xbox Series X",398.0,2019-06-28
+228,ksa,Kirby: Star Allies,2D Platformer,Switch,340.0,2014-10-02
+229,n100f,Scooby-Doo! Night of 100 Frights,3D Platformer,"GameCube, PlayStation 2, Xbox, backwards-compatible PlayStation 3",201.0,2018-03-16
+230,tetris_attack,Tetris Attack,Puzzle,"Super Nintendo, Wii Virtual Console, Nintendo 3DS Virtual Console, Wii U Virtual Console, New Nintendo 3DS Virtual Console, Switch, Satellaview, SNES Classic Mini",363.0,2002-05-20
+231,splatoon1,Splatoon,Action,Wii U,291.0,1996-08-05
+232,wow,World of Warcraft,RPG,PC,627.0,2015-05-30
+233,google_quick_draw,Google Quick Draw,Misc,"PC, Android, iOS, Web",572.0,2004-11-23
+234,cm2_dwf,Cooking Mama 2: Dinner With Friends,Misc,"Nintendo DS, Nintendo 3DS, New Nintendo 3DS",362.0,2016-11-17
+235,metroid_nes,Metroid (NES),Action-Adventure,"Nintendo Entertainment System, GameCube, Wii Virtual Console, Game Boy Advance, Nintendo 3DS Virtual Console, Wii U Virtual Console, NES Classic Mini, Switch",244.0,2007-11-13
+236,wbwwb,We Become What We Behold,Misc,"PC, Web, Macintosh",548.0,1986-08-06
+237,dt,DuckTales (NES),2D Platformer,"Nintendo Entertainment System, NES Classic Mini",327.0,2016-10-18
+238,sor2,Streets of Rage 2,Brawler,"Sega Genesis, PlayStation 3, Xbox 360, PlayStation 4, Xbox One, PC, Wii, Switch",393.0,1989-09-14
+239,scv4,Super Castlevania IV,Action ,"Super Nintendo, Wii Virtual Console, SNES Classic Mini",204.0,1992-12-20
+240,lm3,Luigi's Mansion 3,Action-Adventure,Switch,337.0,1991-10-31
+241,gtao,Grand Theft Auto Online,Sandbox,"PlayStation 3, Xbox 360, PlayStation 4, Xbox One, PC, PlayStation 5, Xbox Series X, Xbox Series S",543.0,2019-10-31
+242,pokemon_puzzle_league,Pokémon Puzzle League,Puzzle,"Nintendo 64, Wii Virtual Console",378.0,2013-09-17
+243,fallout_nv,Fallout: New Vegas,RPG,"PlayStation 3, Xbox 360, PlayStation 4, Xbox One, PC",242.0,2000-09-25
+244,tww,The Legend of Zelda: The Wind Waker,Action-Adventure,GameCube,352.0,2010-10-19
+245,thug1,Tony Hawk's Underground,Sports,"GameCube, PlayStation 2, Xbox 360, Xbox, PC",254.0,2002-12-13
+246,mcplayhd,McPlayHD,Misc,"PC, Macintosh, Linux",412.0,2003-10-28
+247,dkc3,Donkey Kong Country 3: Dixie Kong's Double Trouble!,2D Platformer,"Super Nintendo, Wii Virtual Console, Wii U Virtual Console, New Nintendo 3DS Virtual Console, SNES Classic Mini, Switch Virtual Console",390.0,2015-09-13
+248,pbp,Penumbra: Black Plague,Horror,"PC, Macintosh, Linux",280.0,1996-11-22
+249,tssm,The SpongeBob SquarePants Movie,3D Platformer,"GameCube, PlayStation 2, Xbox 360, Xbox, Wii, PSN Download, backwards-compatible PlayStation 3",223.0,2008-02-12
+250,pkmnsnap,Pokémon Snap,Misc,"Nintendo 64, Wii Virtual Console, Wii U Virtual Console",283.0,2004-10-27
+251,re5,Resident Evil 5,Horror,"PlayStation 3, Xbox 360, PlayStation 4, Xbox One, PC, Switch, PlayStation 5, Xbox Series X, Xbox Series S",489.0,1999-03-21
+252,crash1,Crash Bandicoot,3D Platformer,"PlayStation 2, PlayStation, PlayStation 3, PlayStation Portable, PlayStation Vita, Playstation TV",265.0,2009-03-05
+253,tmc,The Legend of Zelda: The Minish Cap,Action-Adventure,"Game Boy Advance, Nintendo 3DS Virtual Console, Wii U Virtual Console, Game Boy Interface",227.0,1996-09-09
+254,ctrnf,Crash Team Racing: Nitro-Fueled,Racing,"PlayStation 4, Xbox One, Switch, Xbox One X, PlayStation 4 Pro, Xbox One S, PlayStation 5, Xbox Series X, Xbox Series S",303.0,2004-11-04
+255,dragster,Dragster,Racing,"Atari 2600, Atari 7800",397.0,2019-06-21
+256,clustertruck,Clustertruck,Parkour,"PlayStation 4, Xbox One, PC, Switch",312.0,1980-01-01
+257,rac3,Ratchet & Clank: Up Your Arsenal,Action,"PlayStation 2, PlayStation 3, PlayStation Vita, backwards-compatible PlayStation 3",173.0,2016-09-27
+258,geometry_dash_world,Geometry Dash World,2D Platformer,"Android, iOS",510.0,2004-11-02
+259,talos_principle,The Talos Principle,Puzzle,"PlayStation 4, Xbox One, PC, Android, iOS, Macintosh, Linux, Switch",274.0,2016-12-21
+260,coc,Clash of Clans,Strategy,"PC, Android, iOS",395.0,2014-12-11
+261,outer_wilds,Outer Wilds,Action-Adventure,"PlayStation 4, Xbox One, PC, Xbox One X, PlayStation 4 Pro, Xbox One S, PlayStation 5, Xbox Series X, Xbox Series S",347.0,2012-01-01
+262,hypixel_ag,Hypixel Arcade Games,Misc,"PC, Macintosh, Linux",575.0,2019-05-28
+263,sf64,Star Fox 64,Action,"Nintendo 64, Wii Virtual Console, Wii U Virtual Console, iQue Player, Switch Virtual Console",362.0,2014-05-27
+264,wii_play,Wii Play,Misc,"Wii U, Wii",446.0,1997-04-27
+265,momo4,Momodora: Reverie Under the Moonlight,2D Platformer,"PlayStation 4, Xbox One, PC, Switch",302.0,2007-02-12
+266,dyinglight,Dying Light,Horror,"PlayStation 4, Xbox One, PC, Switch, PlayStation 5, Xbox Series X, Xbox Series S",365.0,2016-03-04
+267,nsmbudx,New Super Mario Bros. U Deluxe,2D Platformer,Switch,384.0,2015-01-26
+268,ff7r,Final Fantasy VII Remake,RPG,"PlayStation 4, PC, PlayStation 4 Pro, PlayStation 5",313.0,2019-01-11
+269,mc_dmce,Minecraft: Datapack & Modded CE,Sandbox,PC,395.0,2020-03-02
+270,apex_legends,Apex Legends,First-person shooter,"PlayStation 4, Xbox One, PC, Switch, PlayStation 5, Xbox Series X, Xbox Series S",511.0,2020-12-15
+271,bo4zombies,Call of Duty: Black Ops IIII Zombies,First-person shooter,"PlayStation 4, Xbox One, PC",651.0,2019-02-04
+272,tlou,The Last of Us,Action,"PlayStation 3, PlayStation 4, PlayStation 4 Pro, PlayStation 5",204.0,2018-10-12
+273,ai,Alien: Isolation,Horror,"PlayStation 3, Xbox 360, PlayStation 4, Xbox One, PC, Android, iOS, Macintosh, Linux, Switch, PlayStation 5, Xbox Series X",264.0,2013-06-14
+274,scpsl,SCP Secret Laboratory,Horror,PC,399.0,2014-10-07
+275,granny_pc,Granny (PC),Horror,PC,303.0,2017-12-29
+276,sonicr,Sonic R,Racing,"GameCube, Sega Saturn, PlayStation 2, PC",302.0,2018-11-20
+277,deadcells,Dead Cells,Roguelike,"PlayStation 4, Xbox One, PC, Android, iOS, Switch",219.0,1997-11-18
+278,aoh2,Age of History 2,Strategy,"PC, Android, iOS, Macintosh, Linux",582.0,2017-05-10
+279,gw2,Guild Wars 2,RPG,PC,727.0,2018-11-21
+280,mce,Minecraft: Legacy Console Edition,Sandbox,"Wii U, PlayStation 3, Xbox 360, PlayStation Vita, PlayStation 4, Xbox One, Switch, PlayStation 5, Xbox Series X",356.0,2012-08-28
+281,titan_souls,Titan Souls,Action-Adventure,"PlayStation Vita, PlayStation 4, PC, Nvidia Shield",336.0,2012-05-09
+282,dustforce_dx,Dustforce DX,2D Platformer,PC,233.0,2015-04-14
+283,oblivion,The Elder Scrolls IV: Oblivion,RPG,"PlayStation 3, Xbox 360, PlayStation 4, Xbox One, PC, Xbox Series X",246.0,2014-01-01
+284,ssbu,Super Smash Bros. Ultimate,Brawler,"Switch, Nintendo Switch Lite",480.0,2006-03-20
+285,sh1,Silent Hill,Horror,"PlayStation 2, PlayStation, PlayStation 3, PlayStation Portable, PlayStation Vita, Playstation TV",258.0,2018-12-07
+286,jak2,Jak II,3D Platformer,"PlayStation 2, PlayStation 3, PlayStation Vita, PlayStation 4, PlayStation 5, backwards-compatible PlayStation 3",191.0,1999-01-31
+287,plague_inc,Plague Inc.,Strategy,"Android, iOS",501.0,2003-10-14
+288,pringles,Pringles,2D Platformer,Sega Genesis,454.0,2012-05-26
+289,ash,A Short Hike,Misc,"PlayStation 4, Xbox One, PC, Macintosh, Linux, Switch, PlayStation 5, Xbox Series X, Xbox Series S",281.0,2009-10-12
+290,jsrf,Jet Set Radio Future,Action,"Xbox 360, Xbox",193.0,2019-04-05
+291,sm3dw,Super Mario 3D World,3D Platformer,Wii U,286.0,2002-02-22
+292,antichamber,Antichamber,Puzzle,PC,439.0,2013-11-21
+293,ff4,Final Fantasy IV,RPG,"Super Nintendo, Game Boy Advance, Nintendo DS, PlayStation 2, PlayStation, PlayStation Portable, PC, iOS",300.0,2013-01-31
+294,ror2,Risk of Rain 2,Roguelike,"PlayStation 4, Xbox One, PC, Switch, PlayStation 5, Xbox Series X",355.0,1991-01-01
+295,skyrim,The Elder Scrolls V: Skyrim,RPG,"PlayStation 3, Xbox 360, PlayStation 4, Xbox One, PC, Switch, PlayStation 5, Xbox Series X, Xbox Series S",325.0,2019-03-28
+296,agario,Agar.io,Misc,"Android, iOS, Web",466.0,2011-11-11
+297,lozss,The Legend of Zelda: Skyward Sword,Action-Adventure,"Wii, Wii U Virtual Console",190.0,2015-04-28
+298,drmariones,Dr. Mario (NES),Puzzle,"Nintendo Entertainment System, Game Boy Advance, Wii U Virtual Console, NES Classic Mini, Switch",232.0,2011-11-18
+299,donkey_kong,Donkey Kong (NES),2D Platformer,"Nintendo Entertainment System, Wii Virtual Console, Nintendo 3DS, Famicom Disk System, Wii U Virtual Console, NES Classic Mini, Switch",389.0,1990-07-27
+300,pikmin2,Pikmin 2,Strategy,GameCube,142.0,1983-07-15
+301,little_nightmares,Little Nightmares,Horror,"PlayStation 4, Xbox One, PC, Switch, PlayStation 4 Pro, Google Stadia, PlayStation 5, Xbox Series X, Xbox Series S",306.0,2004-04-29
+302,sml2,Super Mario Land 2: 6 Golden Coins,2D Platformer,"Nintendo 3DS Virtual Console, Super Game Boy, Game Boy Player, Super Game Boy 2, Game Boy",219.0,2017-04-27
+303,timberman,Timberman,Misc,"Nintendo 3DS, Arcade, PlayStation 4, Xbox One, PC, Android, iOS, Web, New Nintendo 3DS, Macintosh, Linux, Switch, PlayStation 5, Xbox Series X, Xbox Series S",501.0,1992-10-21
+304,mw2,Call of Duty: Modern Warfare 2,First-person shooter,"PlayStation 3, Xbox 360, PC",338.0,2015-09-18
+305,batim,Bendy And The Ink Machine,Horror,"PlayStation 4, Xbox One, PC, Android, iOS, Switch, Xbox Series X, Xbox Series S",360.0,2009-11-10
+306,wawzombies,Call of Duty: World at War Zombies,First-person shooter,"PlayStation 3, Xbox 360, Xbox One, PC",562.0,2017-02-10
+307,hl2,Half-Life 2,First-person shooter,PC,193.0,2008-11-11
+308,dishonored_2,Dishonored 2,Action,"PlayStation 4, Xbox One, PC",258.0,2004-11-16
+309,lb,LEGO Batman: The Videogame,Action-Adventure,"Wii U, PlayStation 2, PlayStation 3, PlayStation Portable, Xbox 360, PlayStation 4, Xbox One, PC, Wii, Xbox Series X",212.0,2016-11-11
+310,pkmnswordshield,Pokémon Sword/Shield,RPG,Switch,342.0,2008-09-23
+311,jak3,Jak 3,3D Platformer,"PlayStation 2, PlayStation 3, PlayStation Vita, PlayStation 4, PlayStation 5, backwards-compatible PlayStation 3",214.0,2019-11-15
+312,ssbwiiu,Super Smash Bros. for Wii U,Brawler,Wii U,457.0,2004-11-09
+313,las,The Legend of Zelda: Link's Awakening (2019),Action-Adventure,Switch,215.0,2014-11-21
+314,brawlhalla,Brawlhalla,Brawler,"PlayStation 4, Xbox One, PC, Android, iOS, Macintosh, Switch",371.0,2019-09-20
+315,ssb3ds,Super Smash Bros. for 3DS,Brawler,"Nintendo 3DS, New Nintendo 3DS",403.0,2015-01-01
+316,sonic06,Sonic the Hedgehog (2006),3D Platformer,"PlayStation 3, Xbox 360",245.0,2014-09-14
+317,spm,Super Paper Mario,RPG,"Wii U, Wii",174.0,2006-11-14
+318,ff1,Final Fantasy,RPG,"Wii Virtual Console, Game Boy Advance, Nintendo 3DS, PlayStation, PlayStation Portable, PC, Windows Phone, WonderSwan, MSX2, Wii U Virtual Console",272.0,2007-04-09
+319,hoi4,Hearts of Iron IV,Strategy,PC,410.0,1987-12-18
+320,kar,Kirby Air Ride,Racing,"GameCube, Wii",263.0,2016-06-06
+321,ori_wotw,Ori and the Will of the Wisps,Action-Adventure,"Xbox One, PC, Switch",232.0,2003-07-11
+322,pkmnletsgo,Pokémon Let's Go Pikachu/Eevee,RPG,Switch,243.0,2020-03-11
+323,cod4,Call of Duty 4: Modern Warfare,First-person shooter,"PlayStation 3, Xbox 360, Xbox One, PC, Wii",360.0,2018-11-16
+324,blops3,Call of Duty: Black Ops III,First-person shooter,"PlayStation 3, Xbox 360, PlayStation 4, Xbox One, PC",303.0,2007-11-05
+325,ttyd,Paper Mario: The Thousand-Year Door,RPG,GameCube,179.0,2015-11-06
+326,huniepop,HuniePop,Puzzle,PC,303.0,2004-07-22
+327,sonicheroes,Sonic Heroes,3D Platformer,"GameCube, PlayStation 2, PlayStation 3, Xbox",193.0,2015-01-19
+328,d3_ros,Diablo III: Reaper of Souls,Action,"PlayStation 3, Xbox 360, PlayStation 4, Xbox One, PC, Switch",408.0,2003-12-30
+329,crash4,Crash Bandicoot 4: It's About Time,3D Platformer,"PlayStation 4, Xbox One, PC, Switch, Xbox One X, PlayStation 4 Pro, Xbox One S, PlayStation 5, Xbox Series X, Xbox Series S, PS5 for backward compatible games",202.0,2014-03-25
+330,arkhamasylum,Batman: Arkham Asylum,Action-Adventure,"PlayStation 3, Xbox 360, PlayStation 4, Xbox One, PC, Xbox One X, Playstation Now, Xbox One S, PlayStation 5, Xbox Series X, Xbox Series S",237.0,2020-10-02
+331,gbt,Grey-Box Testing,Puzzle,"PC, Web",275.0,2009-08-25
+332,arkhamknight,Batman: Arkham Knight,Action-Adventure,"PlayStation 4, Xbox One, PC, PlayStation 5, Xbox Series X, Xbox Series S",288.0,2020-01-20
+333,mss,Mario Super Sluggers,Sports,"Wii, Wii U Virtual Console",307.0,2015-06-23
+334,roblox_cool_obby_2,ROBLOX: Cool Obby 2,Misc,"Xbox One, PC, Android, iOS, Macintosh",302.0,2008-06-19
+335,smm,Super Mario Maker,2D Platformer,Wii U,423.0,2008-10-18
+336,sh2,Silent Hill 2,Horror,"PlayStation 2, PlayStation 3, Xbox 360, Xbox, Xbox One, PC, Playstation Now",233.0,2015-09-10
+337,ff9,Final Fantasy IX,RPG,"PlayStation 2, PlayStation, PlayStation 3, PlayStation 4, Xbox One, PC, Playstation TV, Switch, PlayStation 5",288.0,2001-09-24
+338,crashbash,Crash Bash,Misc,"PlayStation 2, PlayStation, PlayStation 3, PlayStation Portable, PlayStation Vita, Playstation TV",308.0,2000-01-01
+339,bscotm,Bloodstained: Curse of the Moon,Action,"Nintendo 3DS, PlayStation Vita, PlayStation 4, Xbox One, PC, Switch",257.0,2000-11-06
+340,gow3,God of War III,Action,"PlayStation 3, PlayStation 4, PlayStation 5",199.0,2018-05-24
+341,doom1,Ultimate Doom,First-person shooter,PC,299.0,2010-03-16
+342,hzd,Horizon Zero Dawn,Action,"PlayStation 4, PC, PlayStation 5",156.0,1993-12-10
+343,mgtt,Mario Golf: Toadstool Tour,Sports,"GameCube, Wii",201.0,2017-02-28
+344,teenage_mutant_ninja_turtles_iv_turtles_in_time,Teenage Mutant Ninja Turtles IV: Turtles in Time,Brawler,Super Nintendo,210.0,2003-07-29
+345,spore,Spore,Strategy,PC,324.0,1991-01-01
+346,mwr,Call of Duty: Modern Warfare Remastered,First-person shooter,"PlayStation 4, Xbox One, PC, PlayStation 5, Xbox Series X, Xbox Series S",394.0,2008-09-04
+347,bastion,Bastion,Action-Adventure,"Xbox 360, PlayStation Vita, PlayStation 4, Xbox One, PC, iOS, Switch",253.0,2016-11-04
+348,aos,Castlevania: Aria of Sorrow,Action,"Game Boy Advance, PlayStation 4, Xbox One, PC, Wii U Virtual Console, Game Boy Player, Game Boy Interface, Switch, PlayStation 5, Xbox Series X, Xbox Series S",209.0,2011-07-20
+349,psychonauts,Psychonauts,3D Platformer,"PlayStation 2, PlayStation 3, Xbox 360, Xbox, PlayStation 4, Xbox One, PC, Xbox Series X, Xbox Series S",182.0,2003-05-06
+350,kss,Kirby Super Star,2D Platformer,"Super Nintendo, Wii Virtual Console, Wii U, Wii, Wii U Virtual Console, SNES Classic Mini, Switch Virtual Console",185.0,2005-04-19
+351,limbo,Limbo,Puzzle,"PlayStation 3, Xbox 360, PlayStation Vita, PlayStation 4, Xbox One, PC, Android, iOS, Macintosh, Switch, PlayStation 5, Xbox Series X",238.0,1996-03-21
+352,nuclear_throne,Nuclear Throne,Roguelike,PC,320.0,2010-01-01
+353,geometry_dash_meltdown,Geometry Dash Meltdown,2D Platformer,"Android, iOS",417.0,2015-12-05
+354,roblox_saktkia51,ROBLOX: Survive and Kill the Killers in Area 51,Horror,"Xbox One, PC, Android, iOS, Macintosh",234.0,2015-12-19
+355,wf,Warframe,Action,"PlayStation 4, Xbox One, PC, Switch, PlayStation 5, Xbox Series X",443.0,2014-04-30
+356,nplusplus,N++,2D Platformer,"PlayStation 4, Xbox One, PC, Switch",346.0,2013-03-25
+357,battleblock_theater,BattleBlock Theater,2D Platformer,"Xbox 360, Xbox One, PC",256.0,2015-07-28
+358,sh3,Silent Hill 3,Horror,"PlayStation 2, PlayStation 3, Xbox 360, PC",251.0,2013-01-01
+359,stridernes,Strider (NES),2D Platformer,"Nintendo Entertainment System, Game Boy Advance",270.0,2003-01-01
+360,the_last_of_us_part_ii,The Last of Us Part II,Action,"PlayStation 4, PlayStation 5",271.0,1989-01-01
+361,ror,Risk of Rain,Roguelike,"PlayStation Vita, PlayStation 4, PC, Switch",276.0,2020-06-19
+362,pt2,Piano Tiles 2,Rhythm,"Android, iOS, Windows Phone",379.0,2013-01-01
+363,smk,Super Mario Kart,Racing,"Super Nintendo, Wii Virtual Console, Wii U Virtual Console, New Nintendo 3DS Virtual Console, Switch, SNES Classic Mini",299.0,2015-08-19
+364,pss,Pencil Sharpening Simulator,Misc,"PC, Web",366.0,1992-08-27
+365,ori,Ori and the Blind Forest,Action-Adventure,"Xbox One, PC",139.0,2015-01-01
+366,ultrakill,ULTRAKILL,First-person shooter,PC,279.0,2015-03-11
+367,hp3pc,Harry Potter and the Prisoner of Azkaban (PC),Action-Adventure,PC,152.0,2019-08-30
+368,khbbs02,Kingdom Hearts Birth by Sleep 0.2: A Fragmentary Passage,RPG,"PlayStation 4, Xbox One, PC, Xbox One X, PlayStation 4 Pro, PlayStation 5, Xbox Series X",262.0,2004-01-01
+369,waa,Wubbzy's Amazing Adventure,2D Platformer,Web,197.0,2017-01-12
+370,super_smash_tv,Super Smash TV,Action,"Super Nintendo, SNES Classic Mini, MiSTer, Analogue Super Nt",172.0,2006-08-01
+371,hld,Hyper Light Drifter,Action-Adventure,"PlayStation 4, Xbox One, PC, iOS, Switch",227.0,1992-02-01
+372,hours,ROBLOX: HOURS,Action,"Xbox, PC, Android, iOS, Macintosh",224.0,2016-03-31
+373,htrags,How To Rob A Gas Station,Misc,"PC, Web, Macintosh, Linux",474.0,2020-09-25
+374,d2016,DOOM,First-person shooter,"PlayStation 4, Xbox One, PC, Switch",176.0,2022-01-20
+375,fnaf1,Five Nights at Freddy's,Horror,"PlayStation 4, Xbox One, PC, Android, iOS, Windows Phone, Switch",246.0,2016-05-13
+376,iwzombies,Call of Duty: Infinite Warfare Zombies,First-person shooter,"PlayStation 4, Xbox One, PC",436.0,2014-08-08
+377,littlemermaidnes,The Little Mermaid,Action-Adventure,Nintendo Entertainment System,250.0,2016-11-03
+378,ghostrunner,Ghostrunner,Parkour,"PlayStation 4, Xbox One, PC, Switch",210.0,1991-07-19
+379,kh3,Kingdom Hearts III,RPG,"PlayStation 4, Xbox One, PC, Xbox One X, PlayStation 4 Pro, PlayStation 5, Xbox Series X, Xbox Series S",232.0,2020-10-10
+380,mhw,Monster Hunter: World (Console),Action,"PlayStation 4, Xbox One, Xbox One X, PlayStation 4 Pro, PlayStation 5, Xbox Series X",411.0,2019-01-25
+381,tdd,Amnesia: The Dark Descent,Horror,"PlayStation 4, Xbox One, PC, Macintosh, Linux, Switch",196.0,2018-01-26
+382,wsc,Wii Sports Club,Sports,Wii U,324.0,2010-01-01
+383,marioparty1,Mario Party,Misc,Nintendo 64,336.0,2013-10-30
+384,jka,Star Wars Jedi Knight: Jedi Academy,Action-Adventure,PC,118.0,1998-12-18
+385,celeste_classic_2,CELESTE Classic 2,2D Platformer,"PC, Web, PICO-8",273.0,2003-09-17
+386,doom_eternal,DOOM Eternal,First-person shooter,"PlayStation 4, Xbox One, PC, Switch, Google Stadia, PlayStation 5, Xbox Series X",196.0,2021-01-25
+387,tmnt1,Teenage Mutant Ninja Turtles,Brawler,"Nintendo Entertainment System, Wii Virtual Console",176.0,2020-03-20
+388,job_simulator,Job Simulator,Misc,"PlayStation 4, HTC Vive, Oculus VR, Valve Index, Windows Mixed Reality",306.0,1989-05-12
+389,s2,Sonic the Hedgehog 2,2D Platformer,"GameCube, Wii Virtual Console, Sega Genesis, Sega Saturn, Nintendo 3DS, PlayStation 2, PlayStation 3, PlayStation Portable, Xbox 360, Xbox, PlayStation 4, Xbox One, PC, Switch",187.0,2016-04-05
+390,thug2,Tony Hawk's Underground 2,Sports,"GameCube, PlayStation 2, Xbox 360, Xbox, PC",225.0,1992-11-21
+391,pikmin1,Pikmin,Strategy,"GameCube, Wii",150.0,2004-10-04
+392,rabiribi,Rabi-Ribi,2D Platformer,"PlayStation Vita, PlayStation 4, PC, Switch",179.0,2001-10-26
+393,ae1,Ape Escape,3D Platformer,"PlayStation 2, PlayStation, PlayStation 3, PlayStation Vita, Playstation TV, PSN Download",157.0,2016-01-29
+394,rcsim,Cleaning Simulator,Misc,"Xbox One, PC, Android, iOS, Macintosh",308.0,1999-05-31
+395,gow,God of War,Action,"PlayStation 2, PlayStation 3, PlayStation Vita",155.0,2017-07-07
+396,fallout_3,Fallout 3,RPG,"PlayStation 3, Xbox 360, Xbox One, PC",194.0,2005-03-22
+397,lsw,LEGO Star Wars: The Video Game,Action-Adventure,"GameCube, PlayStation 2, Xbox, PC",181.0,2008-10-28
+398,gw,Google Whirlybird,Misc,Android,358.0,2005-04-02
+399,oot3d,The Legend of Zelda: Ocarina of Time 3D,Action-Adventure,Nintendo 3DS,234.0,2019-09-05
+400,marblemadness,Marble Madness (NES),Puzzle,Nintendo Entertainment System,192.0,2011-06-16
+401,racps4,Ratchet & Clank (PS4),Action,"PlayStation 4, PlayStation 4 Pro, PS5 for backward compatible games",130.0,1989-01-01
+402,jrc,Jump Rope Challenge,Misc,Switch,384.0,2016-04-12
+403,ts4,The Sims 4,Strategy,"PlayStation 4, Xbox One, PC, Macintosh",388.0,2020-06-15
+404,tein,The End Is Nigh,2D Platformer,"PlayStation 4, PC, Switch",186.0,2014-09-02
+405,lufia2,Lufia II: Rise of the Sinistrals,RPG,Super Nintendo,60.0,2017-07-12
+406,flow_free,Flow Free,Puzzle,"PC, Android, iOS",14.0,1995-01-01
+407,ka,Kirby's Adventure,2D Platformer,"Nintendo Entertainment System, Wii Virtual Console, Wii U, Nintendo 3DS, Wii, Wii U Virtual Console, NES Classic Mini, Switch",200.0,2012-06-07
+408,furi,Furi,Action,"PlayStation 4, Xbox One, PC, Switch, PlayStation 5",183.0,1993-03-23
+409,pkmnyellow,Pokémon Yellow,RPG,"Game Boy Color, Game Boy Advance, Nintendo 3DS Virtual Console, Game Boy Player, Super Game Boy 2, New Nintendo 3DS Virtual Console, Game Boy Interface",240.0,2016-07-05
+410,pmw2,Pac-Man World 2,3D Platformer,"GameCube, PlayStation 2, Xbox, PC",123.0,1998-09-12
+411,gi,Genshin Impact,Action-Adventure,"PlayStation 4, PC, Android, iOS, PlayStation 5",293.0,2002-02-24
+412,super_ghouls_n_ghosts,Super Ghouls 'n Ghosts,Action,"Super Nintendo, Wii Virtual Console, Sega Saturn, PlayStation 2, PlayStation, PlayStation 3, PlayStation Portable, Xbox, Wii U Virtual Console, Switch, SNES Classic Mini",199.0,2020-09-28
+413,fnafworld,FNaF World,RPG,"PC, Android",180.0,1991-10-04
+414,hanabi,Hanabi,Strategy,"Web, Tabletop",339.0,2016-01-21
+415,devour,DEVOUR,Horror,PC,224.0,2010-01-01
+416,wizard_of_legend,Wizard of Legend,Roguelike,"PlayStation 4, Xbox One, PC, Switch",290.0,2021-01-28
+417,mchv,Minecraft: Java Edition (Historical Versions),Sandbox,"PC, Macintosh, Linux",293.0,2018-05-15
+418,mtpo,Mike Tyson's Punch-Out!!,Sports,"Nintendo Entertainment System, Wii Virtual Console, Nintendo 3DS, Wii U Virtual Console, NES Classic Mini, Switch, MiSTer",127.0,2009-05-13
+419,katamarireroll,Katamari Damacy Reroll,Misc,"PlayStation 4, Xbox One, PC, Switch, PlayStation 5, Xbox Series X, Xbox Series S",121.0,1987-01-01
+420,mw2r,Call of Duty: Modern Warfare 2 Remastered,First-person shooter,"PlayStation 4, Xbox One, PC, PlayStation 5, Xbox Series X, Xbox Series S",289.0,2018-11-21
+421,kpr,Kirby: Planet Robobot,2D Platformer,"Nintendo 3DS, New Nintendo 3DS",211.0,2020-03-31
+422,scpcb,SCP Containment Breach,Horror,PC,260.0,2016-04-28
+423,mmlc,Mega Man Legacy Collection 1 + 2,2D Platformer,"Nintendo 3DS, PlayStation 4, Xbox One, PC, Switch",337.0,2012-04-15
+424,superhot,SUPERHOT,First-person shooter,"PlayStation 4, Xbox One, PC, Switch, Google Stadia, PlayStation 5, Xbox Series X",221.0,2015-08-24
+425,ff8,Final Fantasy VIII,RPG,"PlayStation 2, PlayStation, PlayStation 3, PlayStation 4, Xbox One, PC, Playstation TV, Switch, PlayStation 5, Xbox Series X",257.0,2016-02-25
+426,the_forest,The Forest,Horror,"PlayStation 4, PC",295.0,1999-01-01
+427,jsr,Jet Set Radio,Action,"Dreamcast, PlayStation 3, Xbox 360, PlayStation Vita, Xbox One, PC",144.0,2014-05-30
+428,chesscom,Chess.com,Strategy,"Android, iOS, Windows Phone, Web",254.0,2000-06-29
+429,krtdl,Kirby's Return to Dream Land,2D Platformer,"Wii U, Wii",213.0,2007-05-07
+430,batman_the_video_game_nes,Batman: The Video Game (NES),Brawler,Nintendo Entertainment System,121.0,2011-10-24
+431,katam,Kirby & The Amazing Mirror,2D Platformer,"Game Boy Advance, Nintendo DS, Nintendo 3DS Virtual Console, Wii U Virtual Console, Game Boy Player",114.0,1989-12-22
+432,okami,Okami,Action-Adventure,"PlayStation 2, PlayStation 3, PlayStation 4, Xbox One, PC, Wii, Switch, PlayStation 5",103.0,2004-04-15
+433,yl,Yooka-Laylee,3D Platformer,"PlayStation 4, Xbox One, PC, Switch",149.0,2006-04-20
+434,bullyse,Bully: Scholarship Edition,Sandbox,"Xbox 360, Xbox One, PC, Wii",159.0,2017-04-11
+435,gow2,God of War II,Action,"PlayStation 2, PlayStation 3, PlayStation Vita",162.0,2008-03-04
+436,satpc,Shantae and the Pirate's Curse,2D Platformer,"Wii U, Nintendo 3DS, PlayStation 4, Xbox One, PC, Wii U Virtual Console, Switch",180.0,2007-03-13
+437,b4b,Back 4 Blood,First-person shooter,"PlayStation 4, Xbox One, PC, PlayStation 5, Xbox Series X, Xbox Series S",253.0,2014-10-23
+438,tloulb,The Last of Us: Left Behind,Action,"PlayStation 3, PlayStation 4, PlayStation 4 Pro, PlayStation 5",167.0,2021-10-07
+439,johnny_upgrade,Johnny Upgrade,2D Platformer,Web,193.0,2014-02-14
+440,roblox_isle,ROBLOX: Isle,Misc,"Xbox One, PC, Android, iOS, Macintosh",297.0,2012-01-01
+441,shoc,S.T.A.L.K.E.R.: Shadow of Chernobyl,Action,PC,134.0,2019-04-21
+442,shrek_2,Shrek 2,3D Platformer,PC,123.0,2007-03-20
+443,cp,Club Penguin,Misc,Web,187.0,2004-05-03
+444,dmc3se,Devil May Cry 3: Special Edition,Action,"PlayStation 2, PlayStation 3, Xbox 360, PlayStation 4, Xbox One, PC, Switch, PlayStation 5, Xbox Series X",177.0,2017-03-29
+445,albw,The Legend of Zelda: A Link Between Worlds,Action-Adventure,Nintendo 3DS,190.0,2006-01-24
+446,miu,Marble It Up!,Puzzle,"PC, iOS, Macintosh, Switch",76.0,2013-11-22
+447,ty1,Ty the Tasmanian Tiger,3D Platformer,"GameCube, PlayStation 2, Xbox, PlayStation 4, Xbox One, PC, Switch",179.0,2018-09-29
+448,uncharted1,Uncharted: Drake's Fortune,Action,"PlayStation 3, PlayStation 4, PlayStation 5",166.0,2002-09-10
+449,rblx_dq,ROBLOX: Dungeon Quest,Action-Adventure,"Xbox One, PC, Android, iOS, Macintosh",379.0,2007-11-19
+450,resident_evil_hd_remaster_steam,Resident Evil HD Remaster (Steam),Horror,PC,520.0,2018-09-25
+451,aladdin_snes,Disney's Aladdin (SNES),2D Platformer,"Super Nintendo, PlayStation 4, Xbox One, PC, Switch",197.0,2015-01-20
+452,goof_troop,Goof Troop,Action-Adventure,Super Nintendo,176.0,1993-01-01
+453,rfa,Ring Fit Adventure,Misc,Switch,226.0,1993-07-11
+454,fzsnes,F-Zero,Racing,"Super Nintendo, Wii Virtual Console, Wii U Virtual Console, Switch, SNES Classic Mini",305.0,2019-10-18
+455,terranigma,Terranigma,RPG,"Super Nintendo, SNES Classic Mini, Analogue Super Nt",135.0,1990-11-21
+456,rls,Rocket League Sideswipe,Sports,"Android, iOS",304.0,1995-10-20
+457,contra3,Contra III: The Alien Wars,Action,"Super Nintendo, Wii Virtual Console, Wii U Virtual Console, Switch, SNES Classic Mini",179.0,2021-11-15
+458,chg51,Clubhouse Games: 51 Worldwide Classics,Misc,Switch,260.0,1992-01-01
+459,k64,Kirby 64: The Crystal Shards,2D Platformer,"Nintendo 64, Wii Virtual Console, Wii U, Wii, Wii U Virtual Console",156.0,2020-06-05
+460,mgsr,Mario Golf: Super Rush,Sports,Switch,270.0,2000-03-24
+461,tphd,The Legend of Zelda: Twilight Princess HD,Action-Adventure,Wii U,146.0,2021-06-25
+462,ae2,Ape Escape 2,3D Platformer,"PlayStation 2, PlayStation 4, Playstation Now, backwards-compatible PlayStation 3, PS5 for backward compatible games",114.0,2016-03-04
+463,l4d2,Left 4 Dead 2,First-person shooter,"Xbox 360, Xbox One, PC, Macintosh, Linux, Xbox Series X, Xbox Series S",203.0,2002-07-18
+464,fetchafruit,"Ooh, Aah & You: Fetch-A-Fruit",Misc,Web,257.0,2009-11-17
+465,rayman_1,Rayman,2D Platformer,"Sega Saturn, Game Boy Advance, Nintendo DS, Nintendo 3DS, PlayStation 2, PlayStation, PlayStation 3, PlayStation Portable, PC, MS-DOS, Android, iOS, Atari Jaguar, Playstation Classic",126.0,2005-07-15
+466,easy_obby,Easy Obby!,Parkour,"Xbox One, PC, Android, iOS, Macintosh, Xbox Series X, Xbox Series S",318.0,1995-09-01
+467,hm2,Hotline Miami 2: Wrong Number,Action,"PlayStation 3, Xbox 360, PlayStation Vita, PlayStation 4, Xbox One, PC, Android, Macintosh, Switch, Xbox Series X",125.0,2020-11-19
+468,cc,Castle Crashers,Brawler,"PlayStation 3, Xbox 360, PlayStation 4, Xbox One, PC, Switch",188.0,2015-03-10
+469,sfv,Street Fighter V: Champion Edition,Brawler,"PlayStation 4, PC, PlayStation 4 Pro, PlayStation 5",221.0,2008-08-27
+470,cv2sq,Castlevania II: Simon's Quest,2D Platformer,"Nintendo Entertainment System, Wii Virtual Console, PlayStation 4, Xbox One, PC, Famicom Disk System, Wii U Virtual Console, NES Classic Mini, Switch",177.0,2016-02-16
+471,granny_2,Granny: Chapter Two,Horror,"Android, iOS",193.0,1987-08-28
+472,golf_it,Golf It!,Sports,PC,288.0,2019-09-06
+473,timberman_vs,Timberman VS,Misc,"Nintendo 3DS, PlayStation 4, Xbox One, PC, New Nintendo 3DS, Macintosh, Linux, Switch, PlayStation 5, Xbox Series X, Xbox Series S, Nintendo Switch Lite",339.0,2017-02-17
+474,ac,Animal Crossing,Misc,"GameCube, Wii",192.0,2018-05-03
+475,tm,Trackmania,Racing,PC,282.0,2002-09-15
+476,hitman_3,Hitman 3,Action,"PlayStation 4, Xbox One, PC, Switch, Google Stadia, PlayStation 5, Xbox Series X, Xbox Series S",293.0,2020-07-01
+477,odc,Octodad: Dadliest Catch,Misc,"Wii U, PlayStation Vita, PlayStation 4, Xbox One, PC, Android, iOS, Switch, PlayStation 5",208.0,2021-01-20
+478,pkmnfrlg,Pokémon FireRed/LeafGreen,RPG,"Game Boy Advance, Nintendo DS, Game Boy Player, Game Boy Interface",187.0,2014-01-01
+479,fallout_4,Fallout 4,RPG,"PlayStation 4, Xbox One, PC",146.0,2004-01-29
+480,bugsnax,Bugsnax,First-person shooter,"PlayStation 4, PC, Macintosh, PlayStation 5",175.0,2015-11-10
+481,smas,Super Mario All-Stars,2D Platformer,"Super Nintendo, Wii U, Wii, Switch",198.0,2020-11-12
+482,sesame_street_fighter,Sesame Street Fighter,Brawler,PC,340.0,1993-07-14
+483,yugiohfm,Yu-Gi-Oh! Forbidden Memories,Strategy,"PlayStation 2, PlayStation, PlayStation 3",256.0,2014-01-01
+484,sor1,Streets of Rage,Brawler,"Wii Virtual Console, Sega Genesis, Xbox 360, PlayStation 4, Xbox One, PC, Wii, Switch",205.0,1999-12-09
+485,pokemon_puzzle_challenge,Pokémon Puzzle Challenge,Puzzle,"Game Boy Color, Nintendo 3DS Virtual Console, Game Boy Player",191.0,1991-08-02
+486,sml1,Super Mario Land,2D Platformer,"Nintendo 3DS Virtual Console, Game Boy",167.0,2000-09-21
+487,shantae_hgh,Shantae: Half-Genie Hero,2D Platformer,"Wii U, PlayStation Vita, PlayStation 4, Xbox One, PC, Switch",219.0,1989-01-01
+488,pkmngoldsilver,Pokémon Gold/Silver,RPG,"Game Boy Color, Game Boy Advance, Nintendo 3DS Virtual Console, Game Boy Player, Super Game Boy 2, New Nintendo 3DS Virtual Console, Game Boy Interface",200.0,2016-12-20
+489,hp1pc,Harry Potter and the Philosopher's Stone (PC),Action-Adventure,PC,111.0,1999-11-21
+490,fortnite,Fortnite: Creative,Sandbox,"PlayStation 4, Xbox One, PC, Android, iOS, Macintosh, Switch, PlayStation 5, Xbox Series X",281.0,2001-01-03
+491,roblox_super_golf,ROBLOX: Super Golf,Sports,"PC, Android, iOS, Macintosh",250.0,2018-12-06
+492,ratatouille_asobo,Ratatouille (Asobo),3D Platformer,"GameCube, PlayStation 2, Xbox, PC, Wii, Macintosh",163.0,2019-11-29
+493,darksouls2,Dark Souls II,Action,"PlayStation 3, Xbox 360, PC",165.0,2007-06-26
+494,ff13,Final Fantasy XIII,RPG,"PlayStation 3, Xbox 360, Xbox One, PC, Xbox Series X, Xbox Series S",138.0,2014-03-11
+495,osu,osu!,Rhythm,"PC, Android, Macintosh, Linux",306.0,2009-12-17
+496,s1,Sonic the Hedgehog,2D Platformer,"GameCube, Wii Virtual Console, Sega Genesis, Dreamcast, Sega Saturn, Nintendo DS, Nintendo 3DS, PlayStation 2, PlayStation 3, PlayStation Portable, Xbox 360, Xbox, PlayStation 4, Xbox One, PC, Switch",133.0,2007-09-16
+497,the_impossible_quiz,The Impossible Quiz,Misc,Web,187.0,1991-06-23
+498,mafia1,Mafia: The City of Lost Heaven,Action,"PlayStation 2, Xbox, PC",154.0,2007-01-01
+499,marioparty2,Mario Party 2,Misc,"Nintendo 64, Wii Virtual Console, Wii U Virtual Console",276.0,2002-08-28
+500,journey,Journey,Action-Adventure,"PlayStation 3, PlayStation 4, PC, iOS, PlayStation 5",203.0,1999-01-01
+501,itb,Into The Breach,Strategy,PC,207.0,2012-01-01
+502,slay_the_spire,Slay the Spire,Strategy,"PlayStation 4, Xbox One, PC, Android, iOS, Macintosh, Linux, Switch",220.0,2018-02-27
+503,sm2018,Marvel's Spider-Man,Action,"PlayStation 4, PlayStation 4 Pro, PlayStation 5",192.0,2017-11-16
+504,dmc5,Devil May Cry 5,Action,"PlayStation 4, Xbox One, PC, Xbox One X, PlayStation 4 Pro, Xbox One S, PlayStation 5, Xbox Series X, Xbox Series S",224.0,2018-09-07
+505,pmdredblue,Pokémon Mystery Dungeon: Red/Blue Rescue Team,RPG,"Game Boy Advance, Nintendo DS, Nintendo 3DS, Wii U Virtual Console, New Nintendo 3DS, Game Boy Player, Game Boy Interface",195.0,2019-03-08
+506,r3,Rayman 3: Hoodlum Havoc,3D Platformer,"GameCube, PlayStation 2, PlayStation 3, Xbox 360, Xbox, Xbox One, PC, Wii, Macintosh",164.0,2005-11-17
+507,contra_hard_corps,Contra Hard Corps,Action,Sega Genesis,243.0,2003-02-21
+508,jazzpunk,Jazzpunk,2D Platformer,"PlayStation 4, PC, PlayStation 5",184.0,1994-01-01
+509,mec,Mirror's Edge Catalyst,Parkour,"PlayStation 4, Xbox One, PC",125.0,2014-02-07
+510,mmx2,Mega Man X2,2D Platformer,"Super Nintendo, Wii Virtual Console, Wii U Virtual Console",257.0,2016-06-07
+511,lufia2ac,Lufia II - Ancient Cave,RPG,Super Nintendo,185.0,1994-12-16
+512,boneworks,BONEWORKS,First-person shooter,"HTC Vive, Oculus VR, Valve Index, Windows Mixed Reality",154.0,1995-02-24
+513,dr1,Dead Rising,Horror,"Xbox 360, PlayStation 4, Xbox One, PC, PlayStation 5, Xbox Series X",163.0,2019-12-10
+514,toys2,Toy Story 2: Buzz Lightyear to the Rescue,3D Platformer,"Nintendo 64, Dreamcast, PlayStation 2, PlayStation, PlayStation 3, PC, Playstation TV",118.0,2006-08-08
+515,granny_3,Granny 3,Horror,Android,164.0,1999-11-30
+516,ff6,Final Fantasy VI,RPG,"Super Nintendo, Wii Virtual Console, Game Boy Advance, PlayStation, PC, SNES Classic Mini",194.0,2021-06-03
+517,postal2,Postal 2,First-person shooter,"PC, Macintosh, Linux",175.0,1994-01-01
+518,wwiizombies,Call of Duty: WWII Zombies,First-person shooter,"PlayStation 4, Xbox One, PC",348.0,2003-04-13
+519,dmc4se,Devil May Cry 4: Special Edition,Action,"PlayStation 4, Xbox One, PC, PlayStation 5, Xbox Series X, Xbox Series S",190.0,2017-11-03
+520,wys,Will You Snail?,2D Platformer,"PlayStation 4, PC, Switch, Xbox Series X, Xbox Series S",221.0,2015-06-18
+521,dkctf,Donkey Kong Country: Tropical Freeze,2D Platformer,"Nintendo Switch, Wii U",163.0,2022-03-02
+522,afterbirth,The Binding of Isaac: Afterbirth,Roguelike,"Wii U, PlayStation Vita, PlayStation 4, Xbox One, PC, iOS, New Nintendo 3DS, Macintosh, Linux, Switch",241.0,2014-02-21
+523,mcd,Minecraft Dungeons,RPG,"PlayStation 4, Xbox One, PC, Android, Switch, Xbox One X, Xbox One S, PlayStation 5, Xbox Series X, Xbox Series S",136.0,2015-10-30
+524,gangbeasts,Gang Beasts,Brawler,"PlayStation 4, Xbox One, PC, Macintosh, Linux",235.0,2020-05-26
+525,spidersolitaire,Spider Solitaire,Misc,"PC, Android, iOS",173.0,2014-08-29
+526,ots,Out There Somewhere,Puzzle,PC,135.0,1998-06-25
+527,sotc_2018,Shadow of the Colossus (2018),Action-Adventure,"PlayStation 4, PlayStation 4 Pro, PlayStation 5",150.0,2014-01-01
+528,fishy1,Fishy,Parkour,PC,182.0,2018-02-06
+529,wr64,Wave Race 64,Racing,"Nintendo 64, Wii Virtual Console, Wii U Virtual Console, iQue Player",121.0,2019-09-10
+530,prey2017,Prey (2017),Action-Adventure,"PlayStation 3, Xbox 360, PlayStation 4, Xbox One, PC",155.0,1996-09-27
+531,bs1,BioShock,First-person shooter,"PlayStation 3, Xbox 360, Xbox One, PC, Macintosh",144.0,2017-05-04
+532,phantom_abyss,Phantom Abyss,First-person shooter,PC,270.0,2007-08-21
+533,ssf2,Super Smash Flash 2,Brawler,PC,228.0,2021-06-21
+534,mariopartyds,Mario Party DS,Misc,"Nintendo DS, Nintendo 3DS, Wii U Virtual Console, New Nintendo 3DS",189.0,2009-01-01
+535,pikmin3dx,Pikmin 3 Deluxe,Strategy,Switch,144.0,2007-11-08
+536,ap,Another Perspective,Puzzle,PC,89.0,2020-10-08
+537,kotor1,Star Wars: Knights of the Old Republic,RPG,"Xbox, PC, Android, iOS, Switch",63.0,2013-11-13
+538,ffx_2,Final Fantasy X-2,RPG,"PlayStation 2, PlayStation 3, PlayStation Vita, PlayStation 4, Xbox One, PC, Switch, Xbox One X, Xbox One S, PlayStation 5",188.0,2003-07-15
+539,asamu,A Story About My Uncle,3D Platformer,PC,195.0,2003-01-01
+540,aac,Assault Android Cactus,Action,"PlayStation 4, Xbox One, PC, Switch",154.0,2014-01-01
+541,dl3,Duck Life 3: Evolution,Racing,Web,198.0,2015-09-23
+542,gtaiv,Grand Theft Auto IV,Sandbox,"PlayStation 3, Xbox 360, Xbox One, PC",122.0,2011-01-01
+543,lhp5_7,LEGO Harry Potter: Years 5-7,Action-Adventure,"Wii U, PlayStation 3, Xbox 360, PC, Wii, PS5 for backward compatible games",158.0,2008-04-29
+544,lij,LEGO Indiana Jones: The Original Adventures,3D Platformer,"PlayStation 2, PlayStation 3, PlayStation Portable, Xbox 360, PlayStation 4, Xbox One, PC, Wii",122.0,2011-11-11
+545,pikuniku,Pikuniku,Puzzle,"Xbox One, PC, Switch, Google Stadia, Xbox Series X, Xbox Series S",116.0,2008-06-03
+546,sm3dl,Super Mario 3D Land,2D Platformer,Nintendo 3DS,142.0,2019-01-24
+547,osrs,Old School RuneScape,RPG,"PC, Android, iOS",220.0,2011-11-03
+548,cm,Cat Mario,2D Platformer,Web,157.0,2013-02-22
+549,gommehdnet,GommeHD.net,Misc,"PC, Macintosh, Linux",303.0,2007-12-01
+550,cbfd,Conker's Bad Fur Day,3D Platformer,"Nintendo 64, Xbox One X, Xbox One S, Xbox Series X, Xbox Series S",248.0,2012-07-12
+551,lm2,Luigi's Mansion: Dark Moon,Action-Adventure,Nintendo 3DS,126.0,2001-03-05
+552,ttr,Toontown Rewritten,RPG,"PC, Macintosh, Linux",323.0,2013-03-20
+553,mgs2sub,Metal Gear Solid 2: Substance,Action-Adventure,"PlayStation 2, Xbox, PC, backwards-compatible PlayStation 3",171.0,2013-01-01
+554,swbf2,Star Wars: Battlefront II,First-person shooter,"PlayStation 2, PlayStation Portable, Xbox, PC",180.0,2002-11-04
+555,dino2,Dino Crisis 2,Action-Adventure,"PlayStation 2, PlayStation, PlayStation 3, PlayStation Portable, PlayStation Vita, PC, Playstation TV",140.0,2005-01-01
+556,slendytubbies,Slendytubbies,Horror,PC,334.0,2000-09-13
+557,marioparty5,Mario Party 5,Misc,"GameCube, Wii U, Wii",291.0,2012-12-12
+558,battletoads_nes,Battletoads (NES),Brawler,Nintendo Entertainment System,136.0,2003-01-01
+559,pop_sot,Prince of Persia: The Sands of Time,Action-Adventure,"GameCube, PlayStation 2, PlayStation 3, Xbox 360, Xbox, PC, Wii",84.0,1991-01-01
+560,dmc,Devil May Cry,Action,"PlayStation 2, PlayStation 3, Xbox 360, PlayStation 4, Xbox One, PC, PSN Download, Switch, PlayStation 5",174.0,2003-11-06
+561,umk3,Ultimate Mortal Kombat 3,Brawler,"Super Nintendo, Sega Genesis, Sega Saturn, Game Boy Advance, Nintendo DS, Nintendo 3DS, Arcade, PlayStation 2, PlayStation 3, Xbox 360, Xbox, PlayStation 4, PC, iOS, MiSTer, Analogue Super Nt, Mega Sg",124.0,2001-08-23
+562,ktd,Kirby: Triple Deluxe,2D Platformer,"Nintendo 3DS, New Nintendo 3DS",165.0,1995-10-06
+563,hobbit,The Hobbit,Action-Adventure,"GameCube, PlayStation 2, Xbox, PC",133.0,2014-01-11
+564,yoshis_story,Yoshi's Story,2D Platformer,"Nintendo 64, Wii Virtual Console, Wii U Virtual Console, iQue Player, Switch Virtual Console",117.0,2003-11-11
+565,warios_woods_nes,Wario's Woods (NES),Puzzle,"Nintendo Entertainment System, Wii Virtual Console, Nintendo 3DS Virtual Console, Switch",93.0,1997-12-21
+566,pp,"Papers, Please",Misc,"PC, iOS",221.0,1994-02-19
+567,smite,Smite,Action,"PlayStation 4, Xbox One, PC, Switch",261.0,2013-08-08
+568,ctwist1,Chameleon Twist,3D Platformer,Nintendo 64,91.0,2014-01-01
+569,fp,Freedom Planet,2D Platformer,"Wii U, PlayStation 4, PC, Switch",135.0,1997-11-30
+570,bpm_bullets_per_minute,BPM: Bullets Per Minute,Rhythm,"PlayStation 4, Xbox One, PC, PlayStation 5, Xbox Series X, Xbox Series S",284.0,2014-07-21
+571,wipeout_obby,ROBLOX: WipeOut Obby(AUDI80),Parkour,"PC, Android, iOS, Macintosh",193.0,2020-09-15
+572,60sbr,60 Seconds Burger Run,2D Platformer,Web,178.0,2009-02-25
+573,isaacrebirth,The Binding of Isaac: Rebirth,Roguelike,"Wii U, PlayStation Vita, PlayStation 4, Xbox One, PC, iOS, New Nintendo 3DS, Macintosh, Linux, Switch",240.0,2012-01-01
+574,puttzoo,Putt-Putt Saves the Zoo,Misc,"Nintendo 3DS, PC, Android, iOS, Macintosh, Switch",189.0,2014-11-04
+575,ct,Chrono Trigger,RPG,"Super Nintendo, Wii Virtual Console, Nintendo DS, PlayStation, PC",155.0,1995-12-31
+576,dota_2,Dota 2,Strategy,"PC, Macintosh, Linux",255.0,1995-03-11
+577,s3k,Sonic 3 & Knuckles,2D Platformer,"GameCube, Wii Virtual Console, Sega Genesis, Sega Saturn, PlayStation 2, PlayStation 3, Xbox 360, Xbox, PC, Mega Sg",125.0,2013-01-01
+578,smbf,Super Meat Boy Forever,2D Platformer,"PlayStation 4, Xbox One, PC, Switch",123.0,1994-10-18
+579,wizard101,Wizard101,RPG,PC,208.0,2020-12-23
+580,roblox_glass,ROBLOX: Glass,Action,"PC, Macintosh",181.0,2008-09-02
+581,mmx4,Mega Man X4,2D Platformer,"GameCube, Sega Saturn, PlayStation 2, PlayStation, PlayStation 3, PC",189.0,2019-07-14
+582,hp1ps1,Harry Potter and the Philosopher's Stone (PS1),Action-Adventure,"PlayStation 2, PlayStation, PlayStation 3",121.0,1997-01-01
+583,rblx_hb2,ROBLOX: Half-Blox 2,First-person shooter,"PC, Android, iOS, Macintosh",204.0,2001-02-01
+584,tekken7,Tekken 7,Brawler,"PlayStation 4, Xbox One, PC",316.0,2020-02-06
+585,teenage_mutant_ninja_turtles_the_hyperstone_heist,Teenage Mutant Ninja Turtles: The Hyperstone Heist,Brawler,"Sega Genesis, PC, MiSTer",157.0,2017-06-01
+586,thatskygame,Sky: Children of the Light,RPG,"Android, iOS, Switch",160.0,1992-01-01
+587,superdodgeball,Super Dodge Ball,Sports,"Nintendo Entertainment System, Wii Virtual Console, PlayStation 4, Xbox One, Nintendo 3DS Virtual Console, Switch, MiSTer, Analogue Nt, Analogue Nt Mini, Nt Mini Noir, retroUSB AVS",178.0,2019-07-18
+588,m6s,Meteor 60 Seconds!!,Action,"PC, Android, iOS, Macintosh",242.0,1989-01-01
+589,ae3,Ape Escape 3,3D Platformer,"PlayStation 2, PSN Download, backwards-compatible PlayStation 3",95.0,2018-02-26
+590,darksouls2sotfs,Dark Souls II: Scholar of the First Sin,Action,"PlayStation 4, Xbox One, PC, PlayStation 5, Xbox Series X, Xbox Series S",136.0,2005-07-14
+591,accf,Animal Crossing: City Folk,Misc,"Wii U, Wii",174.0,2015-04-01
+592,rblxparkour,ROBLOX: Parkour,Parkour,"PC, Macintosh",157.0,2008-11-16
+593,gdfoj,Google Doodle Fourth of July 2019,Misc,"Android, iOS, Web",218.0,2016-07-01
+594,ng2nes,Ninja Gaiden II: The Dark Sword of Chaos,Action,"Nintendo Entertainment System, Wii Virtual Console",118.0,2019-07-04
+595,sbtos,SpongeBob's Truth or Square,3D Platformer,"Xbox 360, Xbox One, Wii, Xbox One X, Xbox One S, Xbox Series X, Xbox Series S, WiiU Backwards Compatibility",94.0,1990-04-06
+596,pkmn_unite,Pokémon UNITE,Strategy,"Android, iOS, Switch",246.0,2009-10-26
+597,smbbm,Super Monkey Ball: Banana Mania,3D Platformer,"PlayStation 4, Xbox One, PC, Switch, PlayStation 5, Xbox Series X, Xbox Series S",236.0,2021-07-21
+598,gdt,Game Dev Tycoon,Strategy,"PC, Android, iOS, Switch",214.0,2021-09-29
+599,destiny,Destiny,First-person shooter,"PlayStation 3, Xbox 360, PlayStation 4, Xbox One, Xbox One X, PlayStation 4 Pro, Xbox One S, PlayStation 5, Xbox Series X, Xbox Series S",224.0,2012-12-10
+600,supermarioparty,Super Mario Party,Misc,Switch,211.0,2014-09-09
+601,mkii,Mortal Kombat II,Brawler,"Super Nintendo, GameCube, Sega Genesis, Sega Saturn, Game Boy Color, Game Boy Advance, Arcade, PlayStation 2, PlayStation, PlayStation 3, PlayStation Portable, Xbox 360, Xbox, Sega Master System, Sega Game Gear, PlayStation 4, Xbox One, PC, MS-DOS, Wii, Sega 32X, Amiga, Super Game Boy, Game Boy Player, Super Game Boy 2, Game Boy, MiSTer",121.0,2018-10-05
+602,destiny2,Destiny 2,First-person shooter,"PlayStation 4, Xbox One, PC, Google Stadia, PlayStation 5, Xbox Series X, Xbox Series S",253.0,1993-06-25
+603,sp_sot,South Park: The Stick of Truth,RPG,"PlayStation 3, Xbox 360, PlayStation 4, Xbox One, PC, Switch",178.0,2017-09-06
+604,lionkingsnes,The Lion King (SNES),2D Platformer,"Super Nintendo, PlayStation 4, Xbox One, PC, Switch",114.0,2014-01-01
+605,mmxlc,Mega Man X Legacy Collection,2D Platformer,"PlayStation 4, Xbox One, PC, Switch",184.0,1994-01-01
+606,tetriseffect,Tetris Effect: Connected,Puzzle,"PlayStation 4, Xbox One, PC, Switch, Xbox Series X, Xbox Series S",163.0,2018-07-24
+607,inside,Inside,Puzzle,"PlayStation 4, Xbox One, PC, iOS, Macintosh, Switch, PlayStation 5",142.0,2018-11-09
+608,dwd,Darkwing Duck (NES),2D Platformer,Nintendo Entertainment System,96.0,2016-06-29
+609,pkmntcg,Pokémon Trading Card Game,Strategy,"Game Boy Advance, Nintendo 3DS Virtual Console, Game Boy Player, Super Game Boy 2, Game Boy Interface",123.0,1992-01-01
+610,robloxthetoh,THE Tower of Hell,Parkour,"Xbox One, PC, Android, iOS, Macintosh",215.0,1998-12-18
+611,sly2,Sly 2: Band of Thieves,3D Platformer,"PlayStation 2, PlayStation 3, PlayStation Vita, Playstation Now, backwards-compatible PlayStation 3",77.0,2019-07-24
+612,twinsanity,Crash Twinsanity,3D Platformer,"PlayStation 2, Xbox 360, Xbox, backwards-compatible PlayStation 3",112.0,2004-09-14
+613,mslug,Metal Slug,Action,"Wii Virtual Console, Sega Saturn, Nintendo DS, Arcade, PlayStation 2, PlayStation, PlayStation 3, PlayStation Portable, Xbox, PlayStation 4, Xbox One, PC, Wii, Android, Switch",227.0,2004-08-30
+614,fnafucn,Ultimate Custom Night,Horror,"PlayStation 4, Xbox One, PC, Android, iOS, Switch, PlayStation 5",206.0,1996-01-01
+615,resident_evil_hd_remaster_console,Resident Evil HD Remaster (Console),Horror,"PlayStation 3, Xbox 360, PlayStation 4, Xbox One, Switch, PlayStation 5, Xbox Series X, Xbox Series S",353.0,2018-06-27
+616,tengen_tetris,Tengen Tetris (NES),Puzzle,Nintendo Entertainment System,100.0,2014-11-27
+617,bm64,Bomberman 64,3D Platformer,"Nintendo 64, Wii U Virtual Console",112.0,1989-05-01
+618,rac4,Ratchet: Deadlocked,Action,"PlayStation 2, PlayStation 3, backwards-compatible PlayStation 3",109.0,1997-01-01
+619,quake,Quake,First-person shooter,PC,115.0,2005-10-25
+620,mas2020,Mario & Sonic at the Olympic Games Tokyo 2020,Sports,Switch,176.0,1996-06-22
+621,monster_jam_urban_assault,Monster Jam: Urban Assault,Racing,"Nintendo DS, PlayStation 2, PlayStation Portable, Wii",124.0,2019-11-01
+622,minit,Minit,Misc,"PlayStation 4, Xbox One, PC, Switch",198.0,2008-10-28
+623,nsmbu,New Super Mario Bros. U,2D Platformer,Wii U,157.0,2018-04-03
+624,pop_ww,Prince of Persia: Warrior Within,Action-Adventure,"GameCube, PlayStation 2, PlayStation 3, Xbox, PlayStation Vita, PC, Wii, iOS",89.0,2012-11-18
+625,rivals-of-aether,Rivals of Aether,Brawler,"Xbox One, PC, Switch",259.0,2004-11-30
+626,wpu,Wii Party U,Misc,Wii U,235.0,2017-03-28
+627,hill_climb_racing_china_edition,Hill Climb Racing: China Edition,Racing,"PC, Android",306.0,2013-10-25
+628,am2r,Another Metroid 2 Remake,Action-Adventure,"PC, Android",110.0,2015-02-19
+629,cyber_shadow,Cyber Shadow,Action,"PlayStation 4, Xbox One, PC, Macintosh, Switch, Xbox One X, PlayStation 4 Pro, Xbox One S, PlayStation 5, Xbox Series X, Xbox Series S",89.0,2016-08-06
+630,pmdsky,Pokémon Mystery Dungeon: Explorers of Sky,RPG,"Nintendo DS, Nintendo 3DS, Wii U Virtual Console, New Nintendo 3DS",150.0,2021-01-26
+631,mm3d,The Legend of Zelda: Majora's Mask 3D,Action-Adventure,Nintendo 3DS,102.0,2009-04-18
+632,dxhr,Deus Ex: Human Revolution,RPG,"Wii U, PlayStation 3, Xbox 360, PC",87.0,2015-02-13
+633,mmx3,Mega Man X3,2D Platformer,"Super Nintendo, Nintendo 3DS, Wii U Virtual Console",182.0,2011-08-23
+634,broforce,Broforce,Action,"PlayStation 4, PC, Macintosh, Linux, Switch",123.0,1995-12-01
+635,d_io,Diep.io,Misc,"Android, iOS, Web",247.0,2015-10-15
+636,scott_pilgrim_vs_the_world_the_game_complete_edition,Scott Pilgrim vs. The World: The Game - Complete Edition,Brawler,"PlayStation 4, Xbox One, PC, Switch, Google Stadia",176.0,2016-04-16
+637,clocktower,Clock Tower (SNES),Horror,"Super Nintendo, Wii Virtual Console, PlayStation, PC, WonderSwan",226.0,2021-01-14
+638,smbdeluxe,Super Monkey Ball Deluxe,3D Platformer,"PlayStation 2, Xbox 360, Xbox",168.0,1995-09-14
+639,yhtwtgsteam,You Have To Win The Game,2D Platformer,"PC, Macintosh, Linux",186.0,2005-03-15
+640,tvot,The Very Organized Thief,Misc,PC,176.0,2014-05-08
+641,noita,Noita,Roguelike,PC,218.0,2013-01-01
+642,wwnes,Where's Waldo?,Misc,Nintendo Entertainment System,161.0,2019-09-24
+643,mssb,Mario Superstar Baseball,Sports,"GameCube, Wii",198.0,1991-09-17
+644,gonehome,Gone Home,Misc,"PlayStation 4, Xbox One, PC, Switch",233.0,2005-07-21
+645,dl2,Duck Life 2,Racing,Web,168.0,2013-01-01
+646,mmx6,Mega Man X6,2D Platformer,"GameCube, PlayStation 2, PlayStation, PlayStation 4, Xbox One, PC, PSN Download, Switch",155.0,2010-01-01
+647,smrpg,Super Mario RPG: Legend of the Seven Stars,RPG,"Super Nintendo, Wii Virtual Console, Wii U Virtual Console, SNES Classic Mini",121.0,2001-11-29
+648,sonicforces,Sonic Forces,Action,"PlayStation 4, Xbox One, PC, Switch, Xbox One X, PlayStation 4 Pro, PlayStation 5, Xbox Series X, Xbox Series S",160.0,1996-03-09
+649,key,Kirby's Epic Yarn,2D Platformer,"Wii U, Wii",141.0,2017-11-07
+650,axiomverge,Axiom Verge,Action,"Wii U, PlayStation Vita, PlayStation 4, Xbox One, PC, Switch",144.0,2010-10-14
+651,pacify,Pacify,Horror,PC,242.0,2015-03-31
+652,tmnf,TrackMania Nations Forever,Racing,PC,205.0,2019-02-22
+653,demons_crest,Demon's Crest,2D Platformer,"Super Nintendo, Wii U Virtual Console, Switch",114.0,2008-04-16
+654,kung_fu,Kung Fu,Brawler,Nintendo Entertainment System,155.0,1994-10-21
+655,kobolds_catacombs,Kobolds & Catacombs,Strategy,"PC, Android, iOS, Macintosh",251.0,1985-10-18
+656,pvz_bfn,Plants vs. Zombies: Battle for Neighborville,Action,"PlayStation 4, Xbox One, PC, Switch, PlayStation 5, Xbox Series X",251.0,2017-12-07
+657,cars,Cars,Racing,"GameCube, PlayStation 2, Xbox 360, Xbox, PC, Wii, Macintosh, backwards-compatible PlayStation 3, WiiU Backwards Compatibility",114.0,2019-10-18
+658,ff12,Final Fantasy XII,RPG,"PlayStation 2, PlayStation 3, PlayStation 4, Xbox One, PC, Switch, PlayStation 4 Pro, PlayStation 5",113.0,2006-06-06
+659,gow2018,God of War (2018),Action,"PlayStation 4, PC, PlayStation 4 Pro, PlayStation 5",142.0,2006-03-16
+660,rdr2,Red Dead Redemption 2,Action-Adventure,"PlayStation 4, Xbox One, PC, Google Stadia, PlayStation 5, Xbox Series X, Xbox Series S",130.0,2018-04-20
+661,mgrr,Metal Gear Rising: Revengeance,Action,"PlayStation 3, Xbox 360, Xbox One, PC, Xbox One X, Nvidia Shield, Xbox One S, Xbox Series X, Xbox Series S",165.0,2018-10-26
+662,dt2,DuckTales 2 (NES),2D Platformer,"Nintendo Entertainment System, NES Classic Mini",131.0,2013-02-13
+663,bookworm_adventures,Bookworm Adventures,Puzzle,PC,48.0,1993-01-01
+664,bsi,BioShock Infinite,First-person shooter,"PlayStation 3, Xbox 360, PlayStation 4, Xbox One, PC, Macintosh, Linux, Switch, PlayStation 5, Xbox Series X, Xbox Series S",165.0,2006-11-26
+665,pop1,Prince of Persia,Action-Adventure,"Nintendo Entertainment System, Sega Genesis, Game Boy Color, Sega Master System, MS-DOS, TurboGrafx-16/PC Engine, Amiga, Game Boy Player, Game Boy, Apple II",93.0,2013-03-26
+666,poe,Path of Exile,Action,PC,179.0,1989-10-03
+667,jfo,Star Wars Jedi: Fallen Order,Action-Adventure,"PlayStation 4, Xbox One, PC, Xbox One X, PlayStation 4 Pro, Xbox One S, Google Stadia, PlayStation 5, Xbox Series X, Xbox Series S",98.0,2013-10-23
+668,mk11,Mortal Kombat 11,Brawler,"PlayStation 4, Xbox One, PC, Switch, Xbox One X, PlayStation 4 Pro, Xbox One S, Google Stadia, PlayStation 5, Xbox Series X, Xbox Series S",191.0,2019-11-14
+669,rbxose,ROBLOX: Old Styled Escape,Puzzle,"PC, Android, iOS, Macintosh",154.0,2019-04-23
+670,barneys_hide_and_seek_game,Barney's Hide & Seek Game,Misc,Sega Genesis,287.0,2017-09-26
+671,astros_playroom,Astro's Playroom,Action-Adventure,PlayStation 5,140.0,1993-06-01
+672,salt_and_sanctuary,Salt and Sanctuary,Action,"PlayStation Vita, PlayStation 4, Xbox One, PC, Switch",134.0,2020-11-12
+673,owlboy,Owlboy,2D Platformer,"PC, Macintosh, Linux, Switch",78.0,2016-03-15
+674,slendrinashool,Slendrina: The school,Horror,"Android, iOS",316.0,2016-11-01
+675,rblx_mc,ROBLOX: Mad City,Action,"Xbox One, PC, Android, iOS, Macintosh, Linux",165.0,2016-08-20
+676,tlk_md_sg,The Lion King (Genesis/MegaDrive),2D Platformer,"Sega Genesis, PlayStation 4, Xbox One, PC, Switch",73.0,2017-12-03
+677,xc2,Xenoblade Chronicles 2,RPG,Switch,98.0,1994-12-08
+678,rain_world,Rain World,Action-Adventure,"PlayStation 4, PC, Switch",144.0,2017-12-01
+679,blaster_master,Blaster Master,Action,"Nintendo Entertainment System, Wii Virtual Console, Nintendo 3DS Virtual Console, Switch",105.0,2017-03-28
+680,one_step_from_eden,One Step From Eden,Roguelike,"PlayStation 4, PC, Switch",230.0,1988-01-01
+681,cyberpunk_2077,Cyberpunk 2077,Action,"PlayStation 4, Xbox One, PC, Xbox One X, PlayStation 4 Pro, Xbox One S, Google Stadia, PlayStation 5, Xbox Series X, Xbox Series S",97.0,2020-03-26
+682,frostrunner,FrostRunner,First-person shooter,PC,175.0,2020-12-10
+683,pikmin3,Pikmin 3,Strategy,Wii U,82.0,2019-01-01
+684,virtua_racing,Virtua Racing,Racing,"Sega Genesis, Sega Saturn, Arcade, PlayStation 2, Wii, Sega 32X, Switch",214.0,2013-07-13
+685,waveland,WaveLand,2D Platformer,PC,87.0,1992-08-01
+686,quac,Quick & Crash,Misc,"Arcade, PlayStation 2",198.0,2017-04-18
+687,shvr,SUPERHOT VR,First-person shooter,"PlayStation 4, PC, HTC Vive, Oculus VR",114.0,1999-01-01
+688,cave_story_plus,Cave Story+,2D Platformer,"Nintendo 3DS, PC, Wii, Macintosh, Linux, Switch, DSi",183.0,2016-12-05
+689,enderlilies,ENDER LILIES: Quietus of the Knights,2D Platformer,"PlayStation 4, Xbox One, PC, Switch, PlayStation 5, Xbox Series X",105.0,2010-03-22
+690,donutcounty,Donut County,Puzzle,"PlayStation 4, Xbox One, PC, Android, iOS, Switch",128.0,2021-01-21
+691,lcu,LEGO City Undercover,3D Platformer,"Wii U, PlayStation 4, Xbox One, PC, Switch",111.0,2018-08-28
+692,super_c,Super C,Action,"Nintendo Entertainment System, Wii Virtual Console, Nintendo 3DS, Wii U Virtual Console, NES Classic Mini",123.0,2013-03-18
+693,redball3,Red Ball 3,2D Platformer,Web,75.0,1990-01-01
+694,kamiko,Kamiko,Action,"PlayStation 4, Xbox One, PC, Switch",121.0,2011-09-22
+695,karlson2d,Karlson 2D,Action,"PC, Macintosh, Linux",144.0,2017-04-13
+696,hand_simulator,Hand Simulator,Misc,PC,182.0,2019-10-13
+697,pkmnoras,Pokémon Omega Ruby/Alpha Sapphire,RPG,"Nintendo 3DS, New Nintendo 3DS",104.0,2017-07-18
+698,glover,Glover,3D Platformer,Nintendo 64,58.0,2014-11-21
+699,rblx_entrypoint,ROBLOX: Entry Point,Action,"Xbox, Xbox One, PC, Macintosh, Xbox Series X, Xbox Series S",156.0,1998-10-31
+700,sma2,Super Mario Advance 2: Super Mario World,2D Platformer,"Game Boy Advance, Nintendo DS, Wii U Virtual Console, Game Boy Player, Game Boy Interface",161.0,2017-04-14
+701,lrff13,Lightning Returns: Final Fantasy XIII,RPG,"PlayStation 3, Xbox 360, PC",105.0,2001-12-14
+702,monstrum,Monstrum,Horror,"PlayStation 4, Xbox One, PC, Switch",139.0,2013-01-01
+703,lsw2,LEGO Star Wars II: The Original Trilogy (Console),Action-Adventure,"GameCube, PlayStation 2, PlayStation Portable, Xbox 360, Xbox, Xbox One, PC, Xbox One X, Xbox One S, Xbox Series X, Xbox Series S",129.0,2015-01-01
+704,gssh1,Garfield's Scary Scavenger Hunt,Horror,Web,103.0,2006-09-11
+705,oneshot,OneShot,RPG,PC,111.0,2002-01-01
+706,cv3dc,Castlevania III: Dracula's Curse,Action,"Nintendo Entertainment System, Wii Virtual Console, Nintendo 3DS, Wii U Virtual Console",99.0,2014-06-30
+707,azure_dreams,Azure Dreams,Roguelike,"PlayStation 2, PlayStation, PlayStation 3",128.0,1989-12-22
+708,mslugx,Metal Slug X,Action,"Wii Virtual Console, Arcade, PlayStation 2, PlayStation, PlayStation 3, PlayStation Portable, Xbox, PlayStation 4, Xbox One, PC, Wii, Android, iOS, Neo Geo AES, Switch",193.0,1997-11-13
+709,fpa1,The Fancy Pants Adventures: World 1,2D Platformer,Web,121.0,1999-05-27
+710,chip_n_dale_rescue_rangers_2,Chip 'n Dale Rescue Rangers 2,2D Platformer,Nintendo Entertainment System,91.0,2006-03-14
+711,ssx3,SSX 3,Sports,"GameCube, PlayStation 2, Xbox 360, Xbox, Xbox One, Wii",98.0,1993-01-01
+712,outlast2,Outlast 2,Horror,"PlayStation 4, Xbox One, PC, Switch, Xbox One X, PlayStation 4 Pro, Xbox One S, PlayStation 5, Xbox Series X, Xbox Series S, Nintendo Switch Lite, SwitchOLED",129.0,2003-01-01
+713,bleed_2,Bleed 2,Action,"PlayStation 4, Xbox One, PC, Macintosh, Linux, Switch",120.0,2017-04-25
+714,dracx,Castlevania: Dracula X,Action,"Super Nintendo, Nintendo 3DS, PlayStation 4, Xbox One, PC, Wii U Virtual Console, Switch",67.0,2017-02-08
+715,rondo,Castlevania: Rondo of Blood,Action,"Wii Virtual Console, PlayStation Portable, PlayStation Vita, PlayStation 4, TurboGrafx-16/PC Engine, PlayStation 5, MiSTer",112.0,1995-07-21
+716,steamworld_dig,SteamWorld Dig,Misc,"Wii U, Nintendo 3DS, PlayStation Vita, PlayStation 4, Xbox One, PC, Macintosh, Linux, Switch, Google Stadia",93.0,1993-10-29
+717,lom,Legend of Mana,RPG,"PlayStation 2, PlayStation, PlayStation 3, PlayStation Portable, PlayStation Vita",114.0,2013-01-01
+718,gsun,Golden Sun,RPG,"Game Boy Advance, Nintendo DS, Nintendo 3DS, Wii U Virtual Console, New Nintendo 3DS, Game Boy Player",78.0,1999-01-01
+719,rygar,Rygar (NES),2D Platformer,"Nintendo Entertainment System, Arcade, Switch",128.0,2001-08-01
+720,ib,Ib,RPG,PC,141.0,1987-01-01
+721,swordigo,Swordigo,2D Platformer,"Android, iOS",112.0,2012-02-27
+722,morrowind,The Elder Scrolls III: Morrowind,RPG,"Xbox 360, Xbox, Xbox One, PC, Xbox One X, Xbox One S, Xbox Series X, Xbox Series S",62.0,2012-03-22
+723,ffmq,Final Fantasy Mystic Quest,RPG,Super Nintendo,137.0,2002-05-01
+724,oos,The Legend of Zelda: Oracle of Seasons,Action-Adventure,"Game Boy Color, Game Boy Advance, Nintendo 3DS Virtual Console, Game Boy Player, Game Boy Interface",85.0,1992-01-01
+725,swe1r,Star Wars Episode I: Racer,Racing,"Nintendo 64, Dreamcast, PlayStation 4, Xbox One, PC, Switch",164.0,2001-02-27
+726,extreme_power_pamplona,Extreme Power Pamplona,2D Platformer,Web,117.0,1999-04-30
+727,mksc,Mario Kart: Super Circuit,Racing,"Game Boy Advance, Nintendo DS, Nintendo 3DS Virtual Console, Wii U Virtual Console, Game Boy Player, Game Boy Interface",182.0,2007-06-17
+728,skylanders_spyros_adventure,Skylanders: Spyro's Adventure,3D Platformer,"Wii U, PlayStation 3, Xbox 360, PC, Wii, Macintosh, Wii Mini, WiiU Backwards Compatibility",82.0,2001-07-21
+729,yhtbtr,You Have to Burn the Rope,2D Platformer,"PC, Web",217.0,2011-10-12
+730,apfa,A Platformer for Ants,2D Platformer,"PC, Web",162.0,2008-01-01
+731,madagascar,Madagascar,3D Platformer,"GameCube, PlayStation 2, PlayStation 3, Xbox, PC, Wii",105.0,2017-12-10
+732,sea_of_thieves,Sea of Thieves,Action-Adventure,"Xbox One, PC, Xbox Series X, Xbox Series S",201.0,2005-05-24
+733,kdl2,Kirby's Dream Land 2,2D Platformer,"Wii U, Game Boy Color, Wii, Nintendo 3DS Virtual Console, Game Boy Player, Super Game Boy 2, Game Boy",95.0,2018-03-20
+734,bhero,Bomberman Hero,3D Platformer,"Nintendo 64, Wii Virtual Console",58.0,1995-03-21
+735,growtopia,Growtopia,Sandbox,"PlayStation 4, Xbox One, PC, Android, iOS, Macintosh, Switch",156.0,1998-01-01
+736,mslug3,Metal Slug 3,Action,"Wii Virtual Console, Arcade, PlayStation 2, PlayStation 3, PlayStation Portable, Xbox 360, Xbox, PlayStation Vita, PlayStation 4, Xbox One, PC, Wii, Android, iOS, Neo Geo AES, Switch",182.0,2013-01-09
+737,pkmncolosseum,Pokémon Colosseum,RPG,"GameCube, Wii",100.0,2000-01-01
+738,toejam_and_earl,ToeJam & Earl,Action,"Wii Virtual Console, Sega Genesis, PlayStation 3, Xbox 360, PlayStation 4, Xbox One, PC, Switch",142.0,2003-11-21
+739,ksp,Kerbal Space Program,Misc,"PlayStation 4, Xbox One, PC, Linux",144.0,1991-01-01
+740,cftkk,SpongeBob SquarePants: Creature from the Krusty Krab,3D Platformer,"GameCube, PlayStation 2, Wii, backwards-compatible PlayStation 3, WiiU Backwards Compatibility",104.0,2011-06-24
+741,adcap,AdVenture Capitalist,Misc,"PlayStation 4, PC, Android, iOS, Web, Macintosh",180.0,2006-10-16
+742,dsp2,Dead Space 2,Action,"PlayStation 3, Xbox 360, PC",85.0,2015-03-30
+743,ge60fps,GoldenEye 007,First-person shooter,PC,20.0,2011-01-25
+744,sonic_asr,Sonic & SEGA All-Stars Racing,Racing,"PlayStation 3, Xbox 360, PC, Wii",130.0,1997-08-25
+745,nslu,New Super Luigi U,2D Platformer,Wii U,96.0,2010-02-23
+746,bug_fables,Bug Fables: The Everlasting Sapling,RPG,"PlayStation 4, Xbox One, PC, Switch",71.0,2013-06-19
+747,faw1,Fireboy and Watergirl 1 - The Forest Temple,Puzzle,PC,120.0,2019-11-21
+748,ck3,Crusader Kings III,Strategy,PC,187.0,2009-01-01
+749,bh,Billy Hatcher and the Giant Egg,3D Platformer,GameCube,72.0,2020-09-01
+750,actraiser1,ActRaiser,2D Platformer,"Super Nintendo, Wii Virtual Console, MiSTer, Analogue Super Nt",70.0,2003-01-01
+751,bms,Black Mesa,First-person shooter,PC,86.0,1990-12-16
+752,redball2,Red Ball 2,2D Platformer,Web,82.0,2012-09-14
+753,goiwam,Golfing Over It with Alva Majo,2D Platformer,"PC, Android, iOS",123.0,2009-10-08
+754,re0,Resident Evil Zero,Horror,"GameCube, PlayStation 3, Xbox 360, PlayStation 4, Xbox One, PC, Wii, Switch, Xbox One X, PlayStation 4 Pro, Xbox One S, PlayStation 5, Xbox Series X, Xbox Series S",130.0,2018-03-28
+755,mgstts,Metal Gear Solid: The Twin Snakes,Action,"GameCube, Wii",112.0,2002-11-12
+756,tm2stadium,TrackMania² Stadium,Racing,PC,188.0,2004-01-01
+757,ninja_gaiden_black,Ninja Gaiden Black,Action,"Xbox 360, Xbox, Xbox One, Xbox One X, Xbox One S, Xbox Series X, Xbox Series S",47.0,2013-06-20
+758,we_were_here,We Were Here,Puzzle,"PlayStation 4, Xbox One, PC",158.0,2005-09-20
+759,uno_ubisoft,UNO (Ubisoft),Misc,"PlayStation 4, Xbox One, PC, Switch",198.0,2017-02-03
+760,wii_fit_plus,Wii Fit (Plus),Misc,"Wii U, Wii",147.0,2016-12-09
+761,mrm,Muppet RaceMania,Racing,"PlayStation 2, PlayStation, PlayStation 3",69.0,2009-10-01
+762,arkhamorigins,Batman: Arkham Origins,Action-Adventure,"Wii U, PlayStation 3, Xbox 360, Xbox One, PC, Playstation Now, Xbox Series X, Xbox Series S",126.0,2000-04-19
+763,msm,Mario Sports Mix,Sports,"Wii U, Wii",176.0,2013-10-25
+764,super_bernie_world,Super Bernie World,2D Platformer,PC,135.0,2010-11-25
+765,ets2,Euro Truck Simulator 2,Misc,PC,172.0,2020-03-09
+766,sludge_life,Sludge Life,Sandbox,PC,128.0,2013-01-16
+767,kidchameleon,Kid Chameleon,2D Platformer,"Wii Virtual Console, Sega Genesis, Arcade, PlayStation 2, PlayStation 3, PlayStation Portable, Xbox 360, PlayStation 4, Xbox One, PC, Android, iOS, Plug and Play, Switch",96.0,2020-05-28
+768,repentance,The Binding of Isaac: Repentance,Roguelike,"PC, Switch, PlayStation 5, Xbox Series X, Xbox Series S",136.0,1992-05-28
+769,rac_ra,Ratchet & Clank: Rift Apart,Action,PlayStation 5,83.0,2021-03-31
+770,hm64,Harvest Moon 64,Misc,"Nintendo 64, Wii U Virtual Console",140.0,2021-06-11
+771,pttr,Paint the Town Red,Action,"PlayStation 4, Xbox One, PC, Macintosh, Linux, Switch, PlayStation 5, Xbox Series X, Xbox Series S",148.0,1999-02-05
+772,darkest_dungeon,Darkest Dungeon,Roguelike,"PlayStation 4, Xbox One, PC, Switch",178.0,2015-10-13
+773,panel_de_pon,Panel de Pon,Puzzle,"Super Nintendo, Wii Virtual Console, Nintendo 3DS Virtual Console, Wii U Virtual Console, New Nintendo 3DS Virtual Console, Switch, Satellaview, SNES Classic Mini",125.0,2016-01-16
+774,mg,Mighty Gunvolt,2D Platformer,"Nintendo 3DS, PlayStation Vita, PlayStation 4, PC",99.0,1995-10-27
+775,defunct,Defunct,Racing,"PlayStation 4, Xbox One, PC, Switch",86.0,2014-08-20
+776,hue,Hue,Puzzle,"PlayStation Vita, PlayStation 4, Xbox One, PC, Macintosh, Linux, Switch",79.0,2016-01-28
+777,pkmnstadium,Pokémon Stadium,RPG,Nintendo 64,154.0,2016-08-30
+778,ignition,Ignition,Racing,"PC, MS-DOS",160.0,1999-04-30
+779,sonicriders,Sonic Riders,Racing,"GameCube, PlayStation 2, PlayStation 3, Xbox 360, Xbox, PC, Wii",155.0,1997-01-01
+780,pjsam1,Pajama Sam: No Need to Hide When it's Dark Outside,Misc,"Wii U, PC, Wii, Android, iOS, Macintosh, Switch",117.0,2006-02-21
+781,mk1,Mortal Kombat,Brawler,"Super Nintendo, Sega Genesis, Game Boy Color, Arcade, PlayStation 2, PlayStation 3, PlayStation Portable, Xbox 360, Xbox, Sega Master System, Sega Game Gear, PlayStation 4, Xbox One, PC, MS-DOS, Sega CD, Amiga, Super Game Boy, Game Boy Player, Super Game Boy 2, Game Boy, Plug and Play, MiSTer",94.0,1996-10-04
+782,secret_of_evermore,Secret of Evermore,RPG,Super Nintendo,69.0,1992-08-09
+783,jj2,Jazz Jackrabbit 2,2D Platformer,"PC, Macintosh",82.0,1995-10-01
+784,pac-man,Pac-Man,Misc,"Nintendo Entertainment System, Super Nintendo, Nintendo 64, GameCube, Wii Virtual Console, Dreamcast, Game Boy Color, Game Boy Advance, Nintendo DS, Nintendo 3DS, Arcade, PlayStation 2, PlayStation, PlayStation Portable, Xbox 360, Atari 2600, Xbox, Sega Game Gear, PlayStation 4, Xbox One, PC, MS-DOS, Wii, Android, iOS, Windows Phone, Nintendo 3DS Virtual Console, Neo Geo Pocket Color, ColecoVision, MSX, Famicom Disk System, Wii U Virtual Console, Super Game Boy, Commodore 64, Tabletop, Game Boy Player, Super Game Boy 2, PSN Download, Game Boy, Intellivision, New Nintendo 3DS Virtual Console, Atari 5200, Atari 7800, Plug and Play, NES Classic Mini, Switch",169.0,1998-04-13
+785,cvx,Resident Evil: Code: Veronica X,Horror,"GameCube, PlayStation 2, PlayStation 3, Xbox 360, PlayStation 4, Xbox One",143.0,1980-05-22
+786,tmnt2,Teenage Mutant Ninja Turtles II: The Arcade Game,Brawler,Nintendo Entertainment System,89.0,2000-02-03
+787,nfsc,Need for Speed: Carbon,Racing,"GameCube, PlayStation 2, PlayStation 3, Xbox 360, Xbox, PC, Wii, backwards-compatible PlayStation 3",117.0,1990-01-01
+788,soulcalibur_ii,Soulcalibur II,Brawler,"GameCube, PlayStation 2, PlayStation 3, Xbox 360, Xbox, Wii",130.0,2006-10-31
+789,legends_of_runeterra,Legends of Runeterra,Strategy,"PC, Android, iOS",241.0,2002-01-01
+790,startropics,StarTropics,Action-Adventure,"Nintendo Entertainment System, Wii Virtual Console, Wii U Virtual Console, NES Classic Mini, Switch, Switch Virtual Console",112.0,2020-04-29
+791,dh,Duck Hunt,Misc,"Nintendo Entertainment System, Wii U Virtual Console",145.0,1990-12-01
+792,eu4,Europa Universalis IV,Strategy,"PC, Macintosh",0.0,2013-13-08
+793,fabletlc,Fable: The Lost Chapters,RPG,"Xbox, PC",59.0,2013-08-08
+794,world_of_illusion,World of Illusion Starring Mickey Mouse and Donald Duck,2D Platformer,Sega Genesis,105.0,2005-10-30
+795,lbp1,LittleBigPlanet,2D Platformer,PlayStation 3,87.0,1992-12-17
+796,slender_the_arrival,Slender: The Arrival,Horror,"Wii U, PlayStation 3, Xbox 360, PlayStation 4, Xbox One, PC, Android, iOS, Macintosh, Switch",123.0,2008-10-27
+797,pkmnemerald,Pokémon Emerald,RPG,"Game Boy Advance, Nintendo DS, Game Boy Player, Game Boy Interface",98.0,2013-03-26
+798,la,The Legend of Zelda: Link's Awakening,Action-Adventure,"Game Boy Color, Game Boy Player, Super Game Boy 2, Game Boy, Game Boy Interface, MiSTer",97.0,2004-09-16
+799,klonoa1,Klonoa: Door to Phantomile,2D Platformer,"PlayStation 2, PlayStation, PlayStation 3, PlayStation Portable, PlayStation Vita, Playstation TV",63.0,1993-06-03
+800,quake2,Quake II (PC),First-person shooter,PC,62.0,1997-12-11
+801,kh2,Kingdom Hearts II,RPG,PlayStation 2,153.0,1997-01-01
+802,mafia_2,Mafia II,Action,"PlayStation 3, Xbox 360, PlayStation 4, Xbox One, PC",99.0,2005-12-22
+803,op4,Half-Life: Opposing Force,First-person shooter,"PC, Macintosh, Linux",73.0,2010-08-23
+804,dino1,Dino Crisis,Horror,"Dreamcast, PlayStation 2, PlayStation, PlayStation 3, PlayStation Portable, PlayStation Vita, PC, Playstation TV",124.0,1999-01-01
+805,gasa4,get a snack at 4 am,Misc,"Xbox One, PC, Android, iOS, Macintosh, Linux",142.0,1999-07-01
+806,the_outer_worlds,The Outer Worlds,RPG,"PlayStation 4, Xbox One, PC, Switch",100.0,2020-12-31
+807,re6,Resident Evil 6,Action,"PlayStation 3, Xbox 360, PlayStation 4, Xbox One, PC, Switch, PlayStation 5, Xbox Series X, Xbox Series S",182.0,2019-10-25
+808,max_payne_3,Max Payne 3,Action,"PlayStation 3, Xbox 360, PC",79.0,2012-10-02
+809,sf2ce,Street Fighter II' - Champion Edition,Brawler,"Super Nintendo, Sega Genesis, Arcade, PlayStation 2, PlayStation, PlayStation 3, Xbox 360, Sega Master System, PlayStation 4, Xbox One, PC, TurboGrafx-16/PC Engine, Switch, Xbox Series X, MiSTer",210.0,2012-01-01
+810,ch1,Clicker Heroes,Misc,"PlayStation 4, Xbox One, PC, Android, iOS, Web, PlayStation 4 Pro, Xbox Series X, Xbox Series S",172.0,1992-04-01
+811,postal_brain_damaged,POSTAL: Brain Damaged,First-person shooter,PC,127.0,2014-01-01
+812,mw3,Call of Duty: Modern Warfare 3,First-person shooter,"PlayStation 3, Xbox 360, PC, Wii",175.0,2021-10-05
+813,ep1,Exit Path,2D Platformer,"PC, Web",100.0,2011-01-01
+814,golden_axe,Golden Axe,Brawler,"Wii Virtual Console, Sega Genesis, Dreamcast, PlayStation 2, PlayStation 3, Xbox 360, PC, Sega CD",100.0,2010-05-27
+815,yakuza_kiwami_2,Yakuza Kiwami 2,Sandbox,"PlayStation 4, Xbox One, PC, PSN Download, Xbox One X, PlayStation 4 Pro, PlayStation 5, Xbox Series X",132.0,1989-01-01
+816,abl,A Bug's Life,3D Platformer,"Nintendo 64, PlayStation 2, PlayStation, PlayStation 3, PlayStation Portable, PlayStation Vita, PC, Playstation TV",87.0,2017-12-07
+817,mml1,Mega Man Legends,Action,"Nintendo 64, PlayStation, PlayStation Portable, PC, Playstation TV, PSN Download",106.0,1998-11-18
+818,distance,Distance,Racing,PC,98.0,1997-12-18
+819,just_shapes_and_beats,Just Shapes & Beats,Rhythm,"PlayStation 4, PC, Macintosh, Linux, Switch, Google Stadia",199.0,2018-09-18
+820,spyroetd,Spyro: Enter the Dragonfly,3D Platformer,"GameCube, PlayStation 2, PlayStation 3, Wii",139.0,2018-05-31
+821,the_evil_within,The Evil Within,Horror,"PlayStation 3, Xbox 360, PlayStation 4, Xbox One, PC",134.0,2002-11-03
+822,llvs,Loomian Legacy: Veils of Shadow,RPG,"PC, Android, iOS, Macintosh",169.0,2014-10-14
+823,sjsm,Spooky's Jump Scare Mansion,Horror,PC,154.0,2019-07-20
+824,rwby_ge,RWBY: Grimm Eclipse,Brawler,"PlayStation 4, Xbox One, PC, Switch, Xbox One X, PlayStation 4 Pro, Xbox Series S",152.0,2015-01-01
+825,run_pro,Run pro,Racing,"Android, iOS",122.0,2016-07-05
+826,khmg,Kingdom Hearts Minigames,Misc,"Nintendo DS, Nintendo 3DS, PlayStation 2, PlayStation 3, PlayStation Portable, PlayStation 4, Xbox One, PC",211.0,2021-03-21
+827,mp2_echoes,Metroid Prime 2: Echoes,First-person shooter,GameCube,89.0,2019-02-09
+828,doom_gba,Doom (GBA),First-person shooter,"Game Boy Advance, Nintendo DS, Game Boy Player, Game Boy Interface",77.0,2004-11-15
+829,arms,ARMS,Brawler,Switch,149.0,2001-10-28
+830,cvhod,Castlevania: Harmony of Dissonance,Action-Adventure,"Game Boy Advance, PlayStation 4, PC, Wii U Virtual Console, Game Boy Player, Game Boy Interface, Switch, PlayStation 5, Xbox Series X, Xbox Series S",98.0,2017-06-16
+831,sh4,Silent Hill 4: The Room,Horror,"PlayStation 2, PlayStation 3, Xbox, PC",87.0,2002-06-06
+832,clone_drone_in_the_danger_zone,Clone Drone In The Danger Zone,Brawler,PC,104.0,2004-01-01
+833,crashtwoc,Crash Bandicoot: The Wrath of Cortex,3D Platformer,"GameCube, PlayStation 2, Xbox 360, Xbox, Wii, backwards-compatible PlayStation 3",93.0,2016-09-22
+834,sf2ww,Street Fighter II - The World Warrior,Brawler,"Super Nintendo, Arcade, PlayStation 2, PlayStation, PlayStation 3, PlayStation Portable, Xbox 360, PlayStation 4, Xbox One, PC, Switch, Xbox Series X, MiSTer",175.0,2001-10-29
+835,fez,FEZ,Puzzle,"PlayStation 3, Xbox 360, PlayStation Vita, PlayStation 4, PC, Android, iOS",84.0,1991-03-01
+836,kao2,Kao the Kangaroo Round 2,3D Platformer,"GameCube, PlayStation 2, Xbox, PC, Wii",61.0,2012-01-01
+837,pkmnbdsp,Pokémon Brilliant Diamond/Shining Pearl,RPG,Switch,129.0,2003-11-04
+838,quake_3_arena,Quake III Arena,First-person shooter,"Dreamcast, PlayStation 2, Xbox, PC, iOS",91.0,2021-11-19
+839,tr2,Tomb Raider II,Action-Adventure,"PlayStation 2, PlayStation, PlayStation 3, PlayStation Portable, PlayStation Vita, PC, Playstation TV, Macintosh",74.0,1999-12-02
+840,thaw,Tony Hawk's American Wasteland,Sports,"GameCube, PlayStation 2, Xbox 360, Xbox, PC",106.0,1997-10-31
+841,dadish2,Dadish 2,2D Platformer,"PlayStation 4, Xbox One, PC, Android, iOS, Web, Switch",132.0,2005-10-18
+842,mta,Mario Tennis Aces,Sports,Switch,154.0,2021-01-17
+843,gris,GRIS,2D Platformer,"PlayStation 4, PC, Android, iOS, Switch",103.0,2018-06-22
+844,ff3,Final Fantasy III,RPG,"Nintendo Entertainment System, Wii Virtual Console, Nintendo DS, PlayStation Portable, PC, Android, iOS, Windows Phone, Nintendo 3DS Virtual Console, Wii U Virtual Console",125.0,2018-12-13
+845,superautopets,Super Auto Pets,Strategy,"PC, Android, iOS, Web",141.0,1990-01-01
+846,iq_ball,IQ Ball,Puzzle,Web,123.0,2021-09-24
+847,house_of_caravan,House of Caravan,Horror,PC,128.0,2010-01-01
+848,the_crew,The Crew,Racing,"PlayStation 4, Xbox One, PC",225.0,2015-01-01
+849,the_really_easy_obby,ROBLOX: The Really Easy Obby!,Parkour,"PC, Android, iOS, Macintosh",151.0,2014-12-02
+850,sly3,Sly 3: Honor Among Thieves,3D Platformer,"PlayStation 2, PlayStation 3, PlayStation Vita, Playstation Now, backwards-compatible PlayStation 3",54.0,2010-10-27
+851,rtcw,Return to Castle Wolfenstein,First-person shooter,PC,81.0,2005-09-26
+852,dkjr,Donkey Kong Jr. (NES),2D Platformer,"Nintendo Entertainment System, Wii Virtual Console, Nintendo 3DS, Atari 2600, ColecoVision, Wii U Virtual Console, NES Classic Mini, Switch",129.0,2001-11-19
+853,mm3,Mega Man 3,2D Platformer,"Nintendo Entertainment System, Wii Virtual Console, Nintendo 3DS Virtual Console, Wii U Virtual Console",141.0,1982-01-01
+854,somnium,Somnium,Misc,"PC, Macintosh, Linux",84.0,1990-01-01
+855,valheim,Valheim,Sandbox,,148.0,2021-04-04
+856,duke_dashington_remastered,Duke Dashington Remastered,Puzzle,"PC, Android, iOS, Web",120.0,2021-02-02
+857,pie,Plague Inc: Evolved,Strategy,"PlayStation 4, Xbox One, PC, Switch",135.0,2017-11-09
+858,sm64fps,Super Mario 64 FPS,First-person shooter,"PC, Macintosh, Linux",118.0,2014-01-01
+859,fallout,Fallout,RPG,PC,138.0,2020-12-05
+860,teardown,Teardown,Sandbox,PC,99.0,1997-09-30
+861,ksqsq,Kirby: Squeak Squad,2D Platformer,"Nintendo DS, Nintendo 3DS, Wii U Virtual Console, New Nintendo 3DS",69.0,2020-10-29
+862,dbxv2,Dragon Ball Xenoverse 2,Brawler,"PlayStation 4, Xbox One, PC, Switch, Google Stadia, PlayStation 5, Xbox Series X, Xbox Series S",89.0,2006-11-02
+863,sjsmhd,Spooky's Jumpscare Mansion HD Renovation,Horror,"PlayStation 4, PC, Macintosh, Linux",144.0,2016-10-25
+864,go_vacation,Go Vacation,Sports,"Wii U, Wii, Switch",84.0,2017-03-01
+865,iready,I-Ready Reward Games,Misc,Web,154.0,2011-10-11
+866,bhop_jump,Bhop Jump,Parkour,"PC, Android, iOS",177.0,2016-08-30
+867,mgs3,Metal Gear Solid 3: Snake Eater,Action,"Nintendo 3DS, PlayStation 2, PlayStation 3, Xbox 360, PlayStation Vita, Xbox One, Nvidia Shield, Playstation Now, Xbox Series X, Xbox Series S, backwards-compatible PlayStation 3",112.0,2018-08-14
+868,rolledout,Rolled Out!,3D Platformer,"PC, Linux",166.0,2004-11-17
+869,lpc,LEGO Pirates of the Caribbean: The Video Game,Action-Adventure,"Wii U, PlayStation 3, Xbox 360, Xbox One, PC, Wii, Xbox One X, Xbox One S, Xbox Series X, Xbox Series S",138.0,2021-03-23
+870,gimmick,Gimmick!,2D Platformer,Nintendo Entertainment System,91.0,2011-05-10
+871,whatthegolf,What the Golf?,Sports,"PC, iOS, Linux, Switch",77.0,1992-01-01
+872,bttm,Family Guy: Back to the Multiverse,Action-Adventure,"PlayStation 3, Xbox 360, PC, Steam Deck",72.0,2019-10-01
+873,drmariosnes,Dr. Mario (SNES),Puzzle,Super Nintendo,83.0,2012-11-20
+874,rblx_portal,ROBLOX: Portal,Puzzle,"PC, Macintosh",121.0,1994-12-01
+875,smmm,Marvel's Spider-Man: Miles Morales,Action,"PlayStation 4, PlayStation 4 Pro, PlayStation 5",85.0,2020-01-13
+876,tetrisgb,Tetris (Game Boy),Puzzle,"Game Boy Color, Game Boy Advance, Super Game Boy, Game Boy Player, Super Game Boy 2, Game Boy",114.0,2020-11-12
+877,hp6,Harry Potter and the Half Blood Prince,Action-Adventure,"PlayStation 2, PlayStation 3, Xbox 360, PC, Wii",69.0,1989-06-14
+878,lopl,Lovely Planet,3D Platformer,"Wii U, PlayStation 4, Xbox One, PC",112.0,2009-01-01
+879,rottr,Rise of the Tomb Raider,Action-Adventure,"Xbox 360, PlayStation 4, Xbox One, PC, Google Stadia, PlayStation 5, Xbox Series X",67.0,2014-01-01
+880,kwirk,Kwirk,Puzzle,Game Boy,105.0,2015-11-10
+881,mpwrt,Mario Power Tennis,Sports,"GameCube, Wii",98.0,1989-01-01
+882,ffxiv,Final Fantasy XIV: Endwalker,RPG,"PlayStation 4, PC, Macintosh, PlayStation 5",172.0,2004-10-28
+883,nesopen,NES Open Tournament Golf,Sports,"Nintendo Entertainment System, Wii Virtual Console",102.0,2013-08-24
+884,roblox_doomspire_brickbattle,ROBLOX: Doomspire Brickbattle,Action,"PC, Android, iOS, Macintosh",128.0,1991-01-01
+885,cttt,Captain Toad: Treasure Tracker,Puzzle,"Wii U, Nintendo 3DS, New Nintendo 3DS, Switch",86.0,2017-11-30
+886,bayonetta2,Bayonetta 2,Action,"Wii U, Switch",89.0,2014-11-13
+887,pkmnrumble,Pokémon Rumble,Brawler,"Wii U, Wii",113.0,2014-09-20
+888,webbed,Webbed,Puzzle,"PlayStation 4, Xbox One, PC, Switch",76.0,2009-06-16
+889,kindergarten,Kindergarten,Misc,,142.0,2021-09-09
+890,nfstr,Need for Speed: The Run,Racing,"PlayStation 3, Xbox 360, PC",146.0,2017-04-07
+891,ootmq,The Legend of Zelda: Ocarina of Time Master Quest,Action-Adventure,"Nintendo 64, GameCube, Wii Virtual Console",111.0,2011-11-15
+892,lennas_inception,Lenna's Inception,RPG,"PC, Macintosh, Linux",123.0,2002-01-01
+893,unturned,Unturned,Action,PC,150.0,2020-01-17
+894,sm64pcport,Super Mario 64 (PC),3D Platformer,"PC, Macintosh, Linux",83.0,2014-07-07
+895,tr1,Tomb Raider,Action-Adventure,"Sega Saturn, PlayStation, PlayStation 3, PlayStation Vita, PC, Android, iOS, Playstation TV",83.0,2020-05-04
+896,dr.mario_gb,Dr. Mario (GB),Puzzle,"Game Boy Color, Game Boy Advance, Nintendo 3DS Virtual Console, Super Game Boy, Game Boy Player, Super Game Boy 2, Game Boy, Game Boy Interface",84.0,1996-10-25
+897,dq3,Dragon Quest III,RPG,Super Nintendo,224.0,1990-07-27
+898,fnaf2,Five Nights at Freddy's 2,Horror,"PlayStation 4, Xbox One, PC, Android, iOS, Windows Phone, Switch",142.0,1996-12-06
+899,uncharted3,Uncharted 3: Drake's Deception,Action-Adventure,"PlayStation 3, PlayStation 4, PlayStation 5",63.0,2014-11-10
+900,cof,Cry of Fear,Horror,PC,124.0,2011-01-01
+901,tetris_dx,Tetris DX,Puzzle,"Game Boy Color, Game Boy Advance, Super Game Boy, Game Boy Player, Super Game Boy 2, Game Boy, Game Boy Interface",112.0,2013-04-25
+902,tripeaks,TriPeaks,Puzzle,"PC, Android, iOS",141.0,1998-01-01
+903,marioparty3,Mario Party 3,Misc,Nintendo 64,134.0,2012-07-28
+904,pso,Phantasy Star Online,RPG,"GameCube, Dreamcast, Xbox, PC",85.0,2001-01-01
+905,ddgq,Donald Duck: Goin' Quackers,3D Platformer,"Nintendo 64, GameCube, Dreamcast, PlayStation 2, PlayStation, PlayStation 3, PC, PSN Download",89.0,2000-01-01
+906,coh,Cadence of Hyrule — Crypt of the NecroDancer Featuring The Legend of Zelda,Rhythm,Switch,112.0,2000-11-14
+907,snipperclips,"Snipperclips: Cut it out, together!",Puzzle,Switch,109.0,2019-06-13
+908,pkmndp,Pokémon Diamond/Pearl,RPG,"Nintendo DS, Nintendo 3DS, New Nintendo 3DS",89.0,2017-03-03
+909,dbzbt3,Dragon Ball Z: Budokai Tenkaichi 3,Brawler,"PlayStation 2, Wii",129.0,2006-09-28
+910,tmnt3,Teenage Mutant Ninja Turtles III: The Manhattan Project,Brawler,Nintendo Entertainment System,71.0,2007-01-01
+911,layers_of_fear,Layers of Fear,Horror,"PlayStation 4, Xbox One, PC, Switch",83.0,1991-01-01
+912,ng3nes,Ninja Gaiden III: The Ancient Ship of Doom,Action,"Nintendo Entertainment System, Wii Virtual Console",73.0,2016-02-16
+913,monolith,Monolith,Action,"PC, Linux",142.0,1991-01-01
+914,arknights,Arknights,Strategy,"Android, iOS",164.0,2017-06-07
+915,trials_of_mana,Trials of Mana,RPG,"PlayStation 4, PC, Switch",90.0,2020-01-16
+916,ffrk,Final Fantasy Record Keeper,RPG,"Android, iOS",198.0,2020-04-24
+917,wwgit,Warioware: Get It Together,Misc,Switch,134.0,2014-09-24
+918,satisfactory,Satisfactory,Sandbox,PC,118.0,2021-09-10
+919,mariogolf,Mario Golf,Sports,"Nintendo 64, Wii Virtual Console, Wii U Virtual Console",74.0,2019-03-19
+920,hl2lc,Half-Life 2: Lost Coast,First-person shooter,"PC, Macintosh, Linux",102.0,1999-06-11
+921,astroneer,Astroneer,Action-Adventure,"PlayStation 4, Xbox One, PC",109.0,2005-10-27
+922,demonssouls2020,Demon's Souls (2020),Action,PlayStation 5,76.0,2016-12-16
+923,cpi,Club Penguin Island,Misc,"PC, Android, iOS, Macintosh",79.0,2020-11-11
+924,bl3,Borderlands 3,First-person shooter,"PlayStation 4, Xbox One, PC, Google Stadia, PlayStation 5, Xbox Series X",110.0,2017-03-29
+925,rac_tod,Ratchet & Clank Future: Tools of Destruction,Action,PlayStation 3,43.0,2019-09-13
+926,thps4,Tony Hawk's Pro Skater 4,Sports,"GameCube, Game Boy Advance, PlayStation 2, PlayStation, Xbox, PC",71.0,2007-10-23
+927,zumas_revenge,Zuma's Revenge,Puzzle,"Nintendo DS, PlayStation 3, Xbox 360, Xbox, PlayStation 4, PC, iOS",100.0,2002-10-23
+928,sm2,Spider-Man 2,Action,"GameCube, PlayStation 2, Xbox",43.0,2009-01-01
+929,bean,Bean,Parkour,"PC, Macintosh",42.0,2004-06-28
+930,gowgos,God of War: Ghost of Sparta,Action,"PlayStation 3, PlayStation Portable",100.0,2021-04-25
+931,bbhd,Super Monkey Ball Banana Blitz HD,3D Platformer,"PlayStation 4, Xbox One, PC, Switch, PlayStation 5, Xbox Series X, Xbox Series S",112.0,2010-11-02
+932,nioh,Nioh,Action,"PlayStation 4, PC, PlayStation 4 Pro, PlayStation 5",104.0,2019-10-29
+933,sstfe,Serious Sam: The First Encounter,First-person shooter,PC,81.0,2017-02-09
+934,kotr_snes,Knights Of The Round(SNES),Brawler,"Super Nintendo, MiSTer",44.0,2001-03-01
+935,sssv,Space Station Silicon Valley (N64),3D Platformer,Nintendo 64,46.0,1994-01-01
+936,ffxv,Final Fantasy XV,RPG,"PlayStation 4, Xbox One, PC, Xbox One X, PlayStation 4 Pro, Xbox One S, Google Stadia, PlayStation 5, Xbox Series X, Xbox Series S",104.0,1998-10-21
+937,galaga,Galaga,Action,"Nintendo 64, GameCube, Dreamcast, Game Boy Color, Game Boy Advance, Nintendo DS, Nintendo 3DS, Arcade, PlayStation 2, PlayStation, PlayStation 3, Xbox 360, Xbox, PlayStation 4, Xbox One, PC, Wii, Android, iOS, MSX, Web, New Nintendo 3DS, Commodore 64, Game Boy Player, Game Boy, Atari 7800, Switch",95.0,2016-11-29
+938,kings_quest_vi_heir_today_gone_tomorrow,"King's Quest VI: Heir Today, Gone Tomorrow",Misc,"MS-DOS, Macintosh",48.0,1981-09-01
+939,102dalmatians,Disney's 102 Dalmatians: Puppies to the Rescue,3D Platformer,"Dreamcast, PlayStation 2, PlayStation, PlayStation 3, PC",108.0,1992-09-30
+940,sailor_moon,Bishoujo Senshi Sailor Moon (SNES),Brawler,Super Nintendo,142.0,2000-11-08
+941,fe3h,Fire Emblem: Three Houses,Strategy,Switch,100.0,1993-08-27
+942,nid,NiGHTS into Dreams...,Action,"Sega Saturn, PlayStation 2, Xbox 360, PC, PSN Download",86.0,2019-07-27
+943,redball4v3,Red Ball 4 Vol.3,2D Platformer,Web,87.0,1996-07-05
+944,gtatlad,Grand Theft Auto: The Lost and Damned,Sandbox,"PlayStation 3, Xbox 360, PC",52.0,2013-10-03
+945,nfsmw05,Need for Speed: Most Wanted (2005),Racing,"GameCube, PlayStation 2, Xbox 360, Xbox, PC, backwards-compatible PlayStation 3",93.0,2009-02-17
+946,toystory3,Toy Story 3: The Video Game,3D Platformer,"PlayStation 3, Xbox 360, Xbox One, PC, Wii, Macintosh, Xbox Series X, Xbox Series S, WiiU Backwards Compatibility",66.0,2005-11-15
+947,gtalcs,Grand Theft Auto: Liberty City Stories,Sandbox,"PlayStation 2, PlayStation 3, PlayStation Portable, PlayStation Vita, Android, iOS, Playstation TV",64.0,2010-06-15
+948,shadowthehedgehog,Shadow the Hedgehog,Action,"GameCube, PlayStation 2, Xbox",108.0,2005-10-24
+949,crosscode,CrossCode,RPG,"PlayStation 4, Xbox One, PC, Macintosh, Linux, Switch",55.0,2005-11-15
+950,ooa,The Legend of Zelda: Oracle of Ages,Action-Adventure,"Game Boy Color, Game Boy Advance, Nintendo 3DS Virtual Console, Game Boy Player, Game Boy Interface",55.0,2018-09-20
+951,lswtcsds,LEGO Star Wars: The Complete Saga (DS),Action-Adventure,"Nintendo DS, Nintendo 3DS, New Nintendo 3DS",47.0,2001-02-27
+952,tetris99,Tetris 99,Puzzle,Switch,150.0,2007-11-06
+953,sr3,Saints Row: The Third,Sandbox,"PlayStation 3, Xbox 360, Xbox One, PC, Linux, Switch",61.0,2019-02-13
+954,monkey_island_2_lechucks_revenge,Monkey Island 2: Lechuck's Revenge,Misc,PC,35.0,2011-11-15
+955,rblx_etao,ROBLOX: Escape The Aquarium Obby,Parkour,"PC, Android, iOS, Macintosh",125.0,1991-01-01
+956,maldita,Maldita Castilla,2D Platformer,PC,188.0,2018-11-23
+957,aladdin_genesis,Disney's Aladdin (Genesis),2D Platformer,"Sega Genesis, PlayStation 4, Xbox One, PC, Switch",87.0,2012-01-01
+958,alpaca_stacka,Alpaca Stacka,3D Platformer,PC,109.0,1993-11-11
+959,fc5,Far Cry 5,First-person shooter,"PlayStation 4, Xbox One, PC, PlayStation 5, Xbox Series X, Xbox Series S",133.0,2021-07-29
+960,whg1,The World's Hardest Game,Misc,"PC, Web",56.0,2018-03-26
+961,bsrotn,Bloodstained: Ritual of the Night,Action,"PlayStation 4, Xbox One, PC, Switch",113.0,2008-03-20
+962,pkmnparkpa,PokéPark Wii: Pikachu's Adventure,Action-Adventure,"Wii U, Wii, Wii U Virtual Console",87.0,2019-06-18
+963,cave_story,Cave Story,2D Platformer,PC,70.0,2009-12-05
+964,iconoclasts,Iconoclasts,Puzzle,"PlayStation Vita, PlayStation 4, Xbox One, PC, Switch",86.0,2004-12-20
+965,brain_out,Brain Out,Misc,"Android, iOS",146.0,2018-01-23
+966,braid,Braid,Puzzle,"PlayStation 3, Xbox 360, PC",74.0,2019-07-06
+967,sf,Star Fox,Action,"Super Nintendo, Switch, SNES Classic Mini",114.0,2008-08-06
+968,polybridge2,Poly Bridge 2,Puzzle,PC,139.0,1993-02-21
+969,hypixel_tp,The Hypixel Pit,Misc,PC,131.0,2020-05-28
+970,mariopartysuperstars,Mario Party Superstars,Misc,Switch,132.0,2020-04-21
+971,thps1,Tony Hawk's Pro Skater,Sports,"Nintendo 64, Dreamcast, PlayStation, N-Gage",81.0,2021-10-29
+972,uncharted2,Uncharted 2: Among Thieves,Action-Adventure,"PlayStation 3, PlayStation 4, PlayStation 5",58.0,1999-08-31
+973,yie,Yoku's Island Express,2D Platformer,"PlayStation 4, Xbox One, PC, Switch, PlayStation 5, Xbox Series X, Xbox Series S",85.0,2009-10-13
+974,slendrinacellar,Slendrina: The Cellar,Horror,"Android, iOS",215.0,2018-05-29
+975,ssfii,Super Street Fighter II - The New Challengers,Brawler,"Super Nintendo, Sega Genesis, Arcade, PlayStation, PlayStation 4, Xbox One, PC, Switch, Xbox Series X, MiSTer",171.0,2014-03-21
+976,ducktales_remastered,DuckTales: Remastered,2D Platformer,"Wii U, PlayStation 3, Xbox 360, Xbox One, PC, Android, iOS",107.0,1993-09-10
+977,ff13-2,Final Fantasy XIII-2,RPG,"PlayStation 3, Xbox 360, PC",97.0,2013-01-01
+978,lsd,LSD: Dream Emulator,Misc,"PlayStation 2, PlayStation, PlayStation 3, PlayStation Portable, PlayStation Vita, PlayStation 4",154.0,2011-12-15
+979,resurvivor,Resident Evil: Survivor,Horror,"PlayStation 2, PlayStation, PlayStation 3",108.0,1998-10-22
+980,skylanders_giants,Skylanders: Giants,Action-Adventure,"Wii U, PlayStation 3, Xbox 360, Wii, Wii Mini, WiiU Backwards Compatibility",74.0,2000-01-27
+981,geometry_dash_subzero,Geometry Dash SubZero,2D Platformer,"Android, iOS",142.0,2012-10-17
+982,just_one_boss,Just One Boss,Action,"Web, PICO-8",92.0,2017-12-21
+983,bfm,Brave Fencer Musashi,RPG,"PlayStation 2, PlayStation, PlayStation 3",51.0,2018-02-12
+984,dl4,Duck Life 4,Racing,"PC, Web",84.0,1998-07-16
+985,marioparty8,Mario Party 8,Misc,"Wii U, Wii",122.0,2012-05-21
+986,timespinner,Timespinner,2D Platformer,"PlayStation Vita, PlayStation 4, Xbox One, PC, Macintosh, Linux, Switch",79.0,2007-05-29
+987,gato_roboto,Gato Roboto,2D Platformer,"Xbox One, PC, Switch",68.0,2018-09-25
+988,sas2_er,Swords and Sandals II: Emperor's Reign,Strategy,"PC, Web",115.0,2019-05-30
+989,font,Font Game,Misc,"Android, iOS, Web",215.0,2007-01-01
+990,rimworld,RimWorld,Strategy,"PC, Macintosh, Linux",126.0,2008-02-22
+991,ts2,TimeSplitters 2,First-person shooter,"GameCube, Wii U, PlayStation 2, Xbox, Xbox One, Wii, Xbox Series X, Xbox Series S",71.0,2013-11-04
+992,ghost_of_tsushima,Ghost of Tsushima,Action,"PlayStation 4, PlayStation 4 Pro, PlayStation 5, PS5 for backward compatible games",89.0,2002-10-09
+993,gheroes,Gunstar Heroes,Action,"Wii Virtual Console, Sega Genesis, Nintendo 3DS, PlayStation 2, PlayStation 3, Xbox 360, PlayStation 4, Xbox One, PC, Switch",85.0,2020-07-19
+994,omori,OMORI,RPG,"PC, Macintosh",59.0,1993-01-01
+995,hp4,Harry Potter and the Goblet of Fire,Action-Adventure,"GameCube, PlayStation 2, Xbox, PC",79.0,2020-12-25
+996,swbf,Star Wars: Battlefront (2004),First-person shooter,"PlayStation 2, Xbox, PC",91.0,2005-01-01
+997,sonic_generations,Sonic Generations,2D Platformer,"PlayStation 3, Xbox 360, Xbox One, PC, Xbox Series X, Xbox Series S",97.0,2004-09-20
+998,swyds,Shower With Your Dad Simulator,Misc,PC,138.0,2011-11-01
+999,tabs,Totally Accurate Battle Simulator,Strategy,"Xbox One, PC, Macintosh, Switch",116.0,2015-09-02
+1,,,,,,2017-01-01
